@@ -1,8 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/redhat-dotnet-msa/dotnet-msa.png?label=ready&title=Ready)](http://waffle.io/redhat-dotnet-msa/dotnet-msa)
 # dotnet-msa
 Main repository with documentation and support files.
-
-# Helloworld-MSA (Microservices architecture)
 http://developers.redhat.com
 :toc: macro
 :toc-title: Table of Contents
@@ -13,5 +11,4 @@ http://developers.redhat.com
 
 This content is brought to you by http://developers.redhat.com - Register today!
 
-image::images/rhdevelopers.png[]
 
