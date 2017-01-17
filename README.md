@@ -123,3 +123,7 @@ After that use the OpenShift console to "Up" and "Down" to get the mix right
 
 `http://screencast.com/t/dWdMETCtnYz`
 
+
+
+
+

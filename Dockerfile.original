@@ -1,0 +1,11 @@
+FROM registry.access.redhat.com/dotnet/dotnetcore-10-rhel7
+
+ADD . /opt/app-root/src/
+
+WORKDIR /opt/app-root/src/
+
+EXPOSE 5000 
+
+RUN ["/bin/bash", "-c", "/opt/rh/rh-dotnetcore10/root/usr/bin/dotnet restore"]
+
+CMD ["/bin/bash", "-c", "/opt/rh/rh-dotnetcore10/root/usr/bin/dotnet run"]
