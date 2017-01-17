@@ -1,17 +1,24 @@
 [![Stories in Ready](https://badge.waffle.io/redhat-dotnet-msa/dotnet-msa.png?label=ready&title=Ready)](http://waffle.io/redhat-dotnet-msa/dotnet-msa)
 # dotnet-msa
-Main repository with documentation and support files.
 
-This content is brought to you by http://developers.redhat.com - Register today!
+## Main repository with documentation and support files.
 
+#### This content is brought to you by http://developers.redhat.com - Register today!
 
-## Use with CDK 
-http://developers.redhat.com/products/cdk/overview/
+#### Some useful acronyms:  
+* Red Hat Enterprise Linux: RHEL  
+* Container Development Kit: CDK  
+* Virtual Machine: VM  
+
+## Use with CDK
+This demo was developed using the Red Hat Container Development Kit (CDK) on a Window 10 PC.  
+To get a no-cost copy of the CDK, go to http://developers.redhat.com/products/cdk/overview/
 
 ### Start your VM and SSH into it
 
-`vagrant up`
-`vagrant ssh`
+1. Navigate to the path containing your Vagrantfile, e.g. `C:\DevelopmentSuite\cdk\components\rhel\rhel-ose`  
+2. `vagrant up`  
+3. `vagrant ssh`
 
 ### Install .NET on your RHEL VM
 
@@ -19,11 +26,11 @@ Follow the instructions at https://access.redhat.com/documentation/en/net-core/1
 
 ### Clone this repository into your VM
 
-git clone https://donschenck/dotnet_docker_msa.git
+git clone https://github.com/redhat-dotnet-msa/dotnet-msa.git
 
-### Move into the directory 
+### Move into the directory
 
-`cd /dotnet_docker_msa`
+`cd /dotnet_msa`
 
 ### Restore and run the application and make sure it runs in RHEL
 
@@ -31,99 +38,68 @@ git clone https://donschenck/dotnet_docker_msa.git
 
 `dotnet run`
 
-In your host (Windows), point your browser to http://10.1.2.2:5000
+On your host (Windows) machine, point your browser to http://10.1.2.2:5000  
+(Note: 10.1.2.2 is the IP address assigned to the RHEL VM by Vagrant. This can be changed by altering the contents of the file "Vagrantfile").
 
-### docker
+### Running in docker  
 Now that we know it runs, we need to publish a Release version to be used in docker.
 
 Note that we *do not* want to use the combination of `dotnet restore` and `dotnet run` in our Dockerfile. Rather, we want the bits in the docker image to match our compiled project *exactly*, with no chance of `dotnet restore` pulling down different bits. Hence, we publish the solution and then copy that into our docker image.
 
-Now we can publish the solution:
+Publish the solution:
 
 `dotnet publish -c Release -r rhel.7.2-x64`
 
 Then build the docker image
 
-`docker build -t donschenck/dotnethello .`
+`docker build -t dotnethello .`  
 
-`docker images | grep donschenck`
+`docker images`  
 
 Test the docker image
 
-`docker run -d -p 5000:5000 donschenck/dotnethello`
+`docker run -d -p 5000:5000 dotnethello --name dotnethello`
 
-`docker ps | grep donschenck`
+`docker stop dotnethello`
 
-`docker stop <containerid>`
+`docker rm dotnethello`
 
-`docker rm <containerid>`
+### Using OpenShift/kubernetes  
+`oc login`  
+user: `openshift-dev`  
+password: `devel`
 
-### openshift/kubernetes
-oc login 10.1.2.2:8443
-
-user: openshift-dev
-
-devel
-
+#### Create the new project  
 `oc new-project mydotnet`
 
-`oc new-build --binary --name=dotnethello`
+#### Run script to create new service  
+`./create_green_1.sh1`
 
-`oc start-build dotnethello --from-dir=. --follow`
-
-`oc new-app dotnethello`
-
+#### Expose the service (i.e. give it a URI)  
 `oc expose service dotnethello`
 
+On the host machine, log in to OpenShift at https://10.1.2.2:8443  
+user: `openshift-dev`  
+password: `devel`
 
-### Blue/Green
-`oc new-build --binary --name=dotnethello-blue`
+You can view the service running.
 
-`oc start-build dotnethello-blue --from-dir=. --follow`
 
-`oc new-app dotnethello-blue`
-
-`oc patch route/dotnethello -p '{"spec": {"to": {"name": "dotnethello-blue" }}}'`
+### Blue/Green Release
+`./create_blue_2.sh`
 
 ### Canary
 
-1) First create the non-canary service deployment
+First create the non-canary service deployment
 
-`oc new-build --name dotnethello-first --binary -l app=dotnethello-first`
+`canary_create_1.sh`
 
-`oc start-build dotnethello-first --from-dir=. --follow`
-
-`oc new-app dotnethello-first -l app=dotnethello-first`
-
-`oc set probe dc/dotnethello-first --readiness --get-url=http://:5000/`
-
-`oc expose service dotnethello-first`
-
-2) Then create the canary service deployment
+Then create the canary service deployment
 
 `vi Startup.cs`
 
 change the "Hello World" line
 
-`oc new-build --name dotnethello-first-canary --binary -l app=dotnethello-first-canary`
-
-`oc start-build dotnethello-first-canary --from-dir=. --follow`
-
-`oc new-app dotnethello-first-canary -l app=dotnethello-first-canary`
-
-`oc set probe dc/dotnethello-first-canary --readiness --get-url=http://:5000/`
-
-`oc patch dc/dotnethello-first -p '{"spec":{"template":{"metadata":{"labels":{"svc":"canary-dotnethello-first"}}}}}'`
-
-`oc patch dc/dotnethello-first-canary -p '{"spec":{"template":{"metadata":{"labels":{"svc":"canary-dotnethello-first"}}}}}'`
-
-`oc patch svc/dotnethello-first -p '{"spec":{"selector":{"svc":"canary-dotnethello-first","app": null, "deploymentconfig": null}, "sessionAffinity":"ClientIP"}}'`
+`create_canary_2.sh`  
 
 After that use the OpenShift console to "Up" and "Down" to get the mix right
-
-`http://screencast.com/t/dWdMETCtnYz`
-
-
-
-
-
