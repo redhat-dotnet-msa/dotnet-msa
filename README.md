@@ -58,7 +58,7 @@ Then build the docker image
 
 Test the docker image
 
-`docker run -d -p 5000:5000 dotnethello --name dotnethello`
+`docker run -d -p 5000:5000 --name dotnethello dotnethello`
 
 `docker stop dotnethello`
 
@@ -100,6 +100,6 @@ Then create the canary service deployment
 
 change the "Hello World" line
 
-`create_canary_2.sh`  
+`canary_create_2.sh`  
 
 After that use the OpenShift console to "Up" and "Down" to get the mix right
