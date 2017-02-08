@@ -5503,7 +5503,7 @@
   },
   "libraries": {
     "Libuv/1.9.1": {
-      "sha512": "OS9ppAs4nsdgcTCpL+lpNUFki1CDRlcuj3/jRytGukRycriT7WAy1//Q69bExAziRqS0vbo0dh0qlJ+bFPYUaw==",
+      "sha512": "mBqabOUfV39UuDsBC2vQ++zkU92/3wn0JNn6W5fqzLqw3QSmxO/a0xLGNelo//KuxiC+v1o7MkGzRoId+uS0Fw==",
       "type": "package",
       "path": "Libuv/1.9.1",
       "files": [
@@ -5636,7 +5636,7 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
-      "sha512": "4fv+D6wQszLm531unZvE6oJuYSuz1bRCbFr0U+xWLuuZpxSSsnJO9aZaDQRXjzib7rcSu3a9WMG2yNWHSWNvNA==",
+      "sha512": "PrZiaCo9I4t/xTvBAoTM/EqsM6IqSypKrPaM5WLF5GdYw8Oht2+zr1cTUeVl9xhnHp5bx7LzTBxaKnobT5BBnA==",
       "type": "package",
       "path": "Microsoft.CodeAnalysis.Analyzers/1.1.0",
       "files": [
@@ -5652,7 +5652,7 @@
       ]
     },
     "Microsoft.CodeAnalysis.Common/1.3.0": {
-      "sha512": "FyC6yNtPq+APE/Q0JYyuMZbgHxrvKGwS/bm5EWeEqoNkZppMumumfEuR50wMw2uURpjZ9gBpjlr37im4v+zlig==",
+      "sha512": "WOabyZ+fio+u2ycm5PTxXQkxxFIsh0o+IyYL8DjLkLthNoi0QdHjESmGU63bZY+P3mWt8Igv1CoAlij29TUxXQ==",
       "type": "package",
       "path": "Microsoft.CodeAnalysis.Common/1.3.0",
       "files": [
@@ -5668,7 +5668,7 @@
       ]
     },
     "Microsoft.CodeAnalysis.CSharp/1.3.0": {
-      "sha512": "sNhN+5R0vV3a4lVFmbUw78lFeD374C5wQY19Dup8tCAC4YGI802qLvb5Ie/nZ4n8GSdXP94gmz5mdPSngNOCRA==",
+      "sha512": "MY3v1i33m9l3Z+RzWfiCgwPy4zHpFl9Q+p63UrrNNonYS7SWVyfM/uGqCjBn086zyLPli0BFfHuxu828NA7iUg==",
       "type": "package",
       "path": "Microsoft.CodeAnalysis.CSharp/1.3.0",
       "files": [
@@ -5684,7 +5684,7 @@
       ]
     },
     "Microsoft.CodeAnalysis.VisualBasic/1.3.0": {
-      "sha512": "lartifzhygjaCD/QHemgqGGg+u9ViIlMsGRaQ9el8hewU+JXtB6+zwtUaguw2h79sOv94hREOdx2uXXZlLEgaw==",
+      "sha512": "y9NOlMrjZXZcQMAh6tFcitwGh38krBJZZSWnvD455xGt5bzplqQadOVpLHjL8I7J/mRJucKEIMEX6GatY52TQA==",
       "type": "package",
       "path": "Microsoft.CodeAnalysis.VisualBasic/1.3.0",
       "files": [
@@ -5700,7 +5700,7 @@
       ]
     },
     "Microsoft.CSharp/4.0.1": {
-      "sha512": "S2KVFImQYvySShqk4VshjBCGz3y+dHhUkXI5fTveI6pMhS4uUkjtNgi2bi/JCV1iy3N98wicLDnVo2yE7Xs3Ig==",
+      "sha512": "17h8b5mXa87XYKrrVqdgZ38JefSUqLChUQpXgSnpzsM0nDOhE40FTeNWOJ/YmySGV6tG6T8+hjz6vxbknHJr6A==",
       "type": "package",
       "path": "Microsoft.CSharp/4.0.1",
       "files": [
@@ -5753,202 +5753,7 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/Microsoft.CSharp/ref/Microsoft.CSharp.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/ExtentFlags.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Binder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/BinderHelper.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpArgumentInfo.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpArgumentInfoFlags.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpBinaryOperationBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpBinaryOperationFlags.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpBinderFlags.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpCallFlags.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpConversionKind.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpConvertBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpGetIndexBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpGetMemberBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpInvokeBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpInvokeConstructorBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpInvokeMemberBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpIsEventBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpSetIndexBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpSetMemberBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpUnaryOperationBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Error.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/CController.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/CError.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/CErrorFactory.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/CParameterizedError.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/ErrorCode.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/ErrorFacts.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/ErrorFmt.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/ErrorHandling.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/IErrorSink.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/MessageID.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/UserStringBuilder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/ExpressionTreeCallRewriter.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/ICSharpInvokeOrInvokeMemberBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/ResetBindException.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/RuntimeBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/RuntimeBinderController.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/RuntimeBinderException.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/RuntimeBinderExtensions.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/RuntimeBinderInternalCompilerException.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BinOpArgInfo.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BinOpKind.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BinOpSig.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Binding/Better.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Binding/ErrorReporting.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BindingContextBase.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BindingContexts.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BindingFlag.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/COperators.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/CandidateFunctionMember.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ConstVal.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ConstValFactory.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Conversion.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Conversions.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Declarations/AggregateDeclaration.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Declarations/Declaration.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Declarations/GlobalAttributeDeclaration.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Declarations/NamespaceDeclaration.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/EXPRExtensions.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/EXPRFLAG.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ExplicitConversion.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ExprFactory.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ExpressionBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ExpressionKind.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/FileRecord.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/FundamentalTypes.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/GlobalSymbolContext.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/GroupToArgsBinder.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/GroupToArgsBinderResult.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ITypeOrNamespace.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ImplicitConversion.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/InputFile.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/LangCompiler.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MemberLookup.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MemberLookupResults.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MetadataToken.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MethodIterator.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MethodKind.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MethodTypeInferrer.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/NameGenerator.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Nullable.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/NullableLift.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Operators.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/OriginalExpressions.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/PredefinedAttributes.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/PredefinedMembers.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/SemanticChecker.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/SubstitutionContext.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/AggregateSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/AssemblyQualifiedNamespaceSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/EventSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/FieldSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/IndexerSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/LabelSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/LocalVariableSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/MethodOrPropertySymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/MethodSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/MiscSymFactory.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/NamespaceOrAggregateSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/NamespaceSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/ParentSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/PropertySymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/Scope.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymFactory.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymFactoryBase.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/Symbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolKind.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolLoader.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolManagerBase.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolMask.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolTable.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/TransparentIdentifierMemberSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/TypeParameterSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/UnresolvedAggregateSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/VariableSymbol.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ArrayIndex.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ArrayInitialization.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ArrayLength.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Assignment.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/BinaryOperator.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Block.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/BoundAnonymousFunction.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Call.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Cast.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Class.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/CompoundOperator.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Concatenate.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ConditionalOperator.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Constant.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/EXPR.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Event.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ExpressionIterator.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Field.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/FieldInfo.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/HoistedLocal.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/List.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/LocalVariable.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/MemberGroup.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/MethodInfo.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/MethodReference.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/NamedArgumentSpecification.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Property.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/PropertyInfo.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Return.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Statement.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Temporary.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/This.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/TypeArguments.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/TypeOf.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/TypeOrNamespace.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/UnaryOperator.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/UnboundAnonymousFunction.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/UserDefinedConversion.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/UserDefinedLogicalOperator.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Visitors/ExprVisitorBase.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Visitors/ExpressionTreeRewriter.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ZeroInitialize.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/TypeBind.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/AggregateType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/ArgumentListType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/ArrayType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/BoundLambdaType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/ErrorType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/MethodGroupType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/NullType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/NullableType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/OpenTypePlaceholderType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/ParameterModifierType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/PointerType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/PredefinedTypes.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/Type.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeArray.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeFactory.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeKind.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeManager.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeParameterType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeTable.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/VoidType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/UnaOpSig.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/UtilityTypeExtensions.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/WithType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/SpecialNames.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/SymbolTable.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/KnownName.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/NameManager.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/NameTable.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/Names.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/Operators.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/PredefinedName.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/PredefinedType.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/TokenFacts.cs",
-        "src/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/TokenKind.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "Microsoft.Extensions.Configuration/1.1.0": {
@@ -6127,7 +5932,7 @@
       ]
     },
     "Microsoft.NETCore.App/1.1.0": {
-      "sha512": "oNmAwPNp+6iI4t2s97Y3uSB9p6FdFVJ2koqgLs8DwFFipZu/GVLs1kuKTTiLNfn+r/O8mhofgpFQ0nthORCn0Q==",
+      "sha512": "cpZEYrm+0wRvSiYAhKdIF9Hk4QgtbWOv1aJB/rMuTNu+CSJsRvGgAR0oxCyLfHLOioUEZHQL4QM0gGSMWhJu3g==",
       "type": "package",
       "path": "Microsoft.NETCore.App/1.1.0",
       "files": [
@@ -6139,7 +5944,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHost/1.0.1": {
-      "sha512": "ErMqY4czkUHkw6124TgQmCTitLjtHxPby69t+RFZzuf4L3V/m6R0oKTqi51In8zVixJV6ZTXQ6gGho1zq4mKlQ==",
+      "sha512": "uaMgykq6AckP3hZW4dsD6zjocxyXPz0tcTl8OX7mlSUWsyFXdtf45sjdwI0JIHxt3gnI6GihAlOAwYK8HE4niQ==",
       "type": "package",
       "path": "Microsoft.NETCore.DotNetHost/1.0.1",
       "files": [
@@ -6151,7 +5956,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/1.0.1": {
-      "sha512": "Pr23VRA4QFjZ1R8bEv7mE6dxXgORimmp64H/7n62ojmpe/NMxN6f3Z29gWDWne5WvQWQmMGsz3OvdfNdWAzjeA==",
+      "sha512": "d8AQ+ZVj2iK9sbgl3IEsshCSaumhM1PNTPHxldZAQLOoI1BKF8QZ1zPCNqwBGisPiWOE3f/1SHDbQi1BTRBxuA==",
       "type": "package",
       "path": "Microsoft.NETCore.DotNetHostPolicy/1.0.1",
       "files": [
@@ -6163,7 +5968,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/1.0.1": {
-      "sha512": "zWZ2cjYq56Nrd+MsRWa+5yBEbguCD6sjsnceBQiDxVdcTOXVheyG4nzjyLJXW3PeFTQuqkftXwt8YbbEuP7WPA==",
+      "sha512": "GEXgpAHB9E0OhfcmNJ664Xcd2bJkz2qkGIAFmCgEI5ANlQy4qEEmBVfUqA+Z9HB85ZwWxZc1eIJ6fxdxcjrctg==",
       "type": "package",
       "path": "Microsoft.NETCore.DotNetHostResolver/1.0.1",
       "files": [
@@ -6175,7 +5980,7 @@
       ]
     },
     "Microsoft.NETCore.Jit/1.0.4": {
-      "sha512": "QRyV0CN5rK9klCyt1gXOjka+BvwVRSXLZmgBjQRAZhCBFP1J1WOHR2DyfHIj1ZPBfL1+G3Ja7yHOILiVorCFGw==",
+      "sha512": "s336ryZlopR+pQ4VfKlILX1LxiQzpCPnmiGot0p5aFPeCjwmKtHC88MI8jXdvdGPySON9i1bPUKJP8jiiPIAjA==",
       "type": "package",
       "path": "Microsoft.NETCore.Jit/1.0.4",
       "files": [
@@ -6187,7 +5992,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "1qelHQwZLv0SYk+mi4eCBmwBxKOZ5bPqPVA72j3lyeSaYl7HcngVlFUrAQFFAo6rS5xY3owGq17ai/2BXZQ4Ew==",
+      "sha512": "FpuyrTmhEX+9KD/mAi44md/eESgPUJJs4UPmu526Pz5pL/nemH0v9ALoWkGGp0c8ZkvlOlkCErpp2osI0MwKyA==",
       "type": "package",
       "path": "Microsoft.NETCore.Platforms/1.1.0",
       "files": [
@@ -6200,7 +6005,7 @@
       ]
     },
     "Microsoft.NETCore.Runtime.CoreCLR/1.0.4": {
-      "sha512": "qAuXDRirJyWnx88PT3xppqDE5YcxsmoZmtIasdEV1TMIV5ea8nLp3EKFZROE6IRswzKhfdKosopFklr2DPeS6A==",
+      "sha512": "NTd+F7MQJi5wFh6Hq3uVH0L3om+pVcfF+bpw0hSd+Ka92QSZ4IfDJw/IWqTQ9jUtLyWYR4XR+52HD5HW+a+zoQ==",
       "type": "package",
       "path": "Microsoft.NETCore.Runtime.CoreCLR/1.0.4",
       "files": [
@@ -6212,7 +6017,7 @@
       ]
     },
     "Microsoft.NETCore.Targets/1.1.0": {
-      "sha512": "32cBJWx3sg4rzi4aY/rlFCjLIUKFRsXWL8aeoF7/Dq8JpGI1o+U449j7lMDAnO+MJV+dBXJs1NGhKyp8eegIpA==",
+      "sha512": "goros8GB+5ElROZug0Bohh0znZwEeecpnvMqwECtJ2dU+R/5p+OF/2Gf1KKVSdROmCh7qufBSgtHJ1CPUlUEVA==",
       "type": "package",
       "path": "Microsoft.NETCore.Targets/1.1.0",
       "files": [
@@ -6225,7 +6030,7 @@
       ]
     },
     "Microsoft.NETCore.Windows.ApiSets/1.0.1": {
-      "sha512": "cXkujVfWloI1Pci/ypBJxfFXWxn7mLLyNDY6S+oN4ylACv0xP3qpgVq7iOVBq2uAO0rkd+ymNhfsR6yp2u67dw==",
+      "sha512": "fsrkCcZSqzqHbK47I0cXr1iNb4z0Y+lUEO2zS1JmGj6C/IcaM/KuA+tqBafMe6SMk0vczO8009LknLcnX7VaqA==",
       "type": "package",
       "path": "Microsoft.NETCore.Windows.ApiSets/1.0.1",
       "files": [
@@ -6237,7 +6042,7 @@
       ]
     },
     "Microsoft.VisualBasic/10.0.1": {
-      "sha512": "v0DHQm0+EKdiGSfBlEiAg00dUJmLU/HIIu2gHXMYWUc1754pWXWyjlshATmLT8UGbERfC+T5N9BhW+2LR4M7Sg==",
+      "sha512": "HpNyOf/4Tp2lh4FyywB55VITk0SqVxEjDzsVDDyF1yafDN6Bq18xcHowzCPINyYHUTgGcEtmpYiRsFdSo0KKdQ==",
       "type": "package",
       "path": "Microsoft.VisualBasic/10.0.1",
       "files": [
@@ -6276,39 +6081,11 @@
         "ref/netstandard1.1/zh-hant/Microsoft.VisualBasic.xml",
         "ref/portable-net45+win8+wpa81/_._",
         "ref/win8/_._",
-        "ref/wpa81/_._",
-        "src/Tools/AssemblyInfoPartial.vb",
-        "src/src/Common/src/System/SR.vb",
-        "src/src/Microsoft.VisualBasic/ref/Microsoft.VisualBasic.cs",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CallType.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/ConversionResolution.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Conversions.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/DesignerGeneratedAttribute.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/ExceptionUtils.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/IDOBinder.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/IncompleteInitialization.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/NewLateBinding.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/ObjectFlowControl.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Operators.Resolution.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Operators.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/OptionCompareAttribute.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/OptionTextAttribute.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/OverloadResolution.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/ProjectData.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/StandardModuleAttribute.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/StaticLocalInitFlag.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Symbols.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Utils.LateBinder.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Utils.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/Constants.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/ControlChars.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/HideModuleNameAttribute.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/Interaction.vb",
-        "src/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/Strings.vb"
+        "ref/wpa81/_._"
       ]
     },
     "Microsoft.Win32.Primitives/4.3.0": {
-      "sha512": "DKY5CjeuxP9yY/Wot8QY3f3OZe8S8EqgDJ2qnleH79KP7a9tQE6f2VLDkTrzhQLj092ohPWSYcGdz7/SLDig0w==",
+      "sha512": "2gQKc/46Mf7Zwj4k25s2aPLfJfbIkqjFiLXg0mcHfUi1pgQ2gaUDdzUZiYM8Y7jU4QfDOwP4hd1PbtvELPRlnQ==",
       "type": "package",
       "path": "Microsoft.Win32.Primitives/4.3.0",
       "files": [
@@ -6344,7 +6121,7 @@
       ]
     },
     "Microsoft.Win32.Registry/4.0.0": {
-      "sha512": "yqSPVPB/OgFtQSCfnmLzkEJfiym6JtIloxc2Z9XlwoLdgVRHw6EcfA1/nzHVWvs5eNPeUQ50fPpIyTGMlYasDQ==",
+      "sha512": "q+eLtROUAQ3OxYA5mpQrgyFgzLQxIyrfT2eLpYX5IEPlHmIio2nh4F5bgOaQoGOV865kFKZZso9Oq9RlazvXtg==",
       "type": "package",
       "path": "Microsoft.Win32.Registry/4.0.0",
       "files": [
@@ -6368,41 +6145,11 @@
         "runtimes/unix/lib/netstandard1.3/Microsoft.Win32.Registry.dll",
         "runtimes/win/lib/net46/Microsoft.Win32.Registry.dll",
         "runtimes/win/lib/netcore50/_._",
-        "runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/Interop/Windows/Interop.BOOL.cs",
-        "src/src/Common/src/Interop/Windows/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.Errors.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.FormatMessage.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegCloseKey.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegConnectRegistry.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegCreateKeyEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegDeleteKeyEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegDeleteValue.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegEnumKeyEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegEnumValue.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegFlushKey.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegOpenKeyEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegQueryInfoKey.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegQueryValueEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegSetValueEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RegistryOptions.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SECURITY_ATTRIBUTES.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/Microsoft.Win32.Registry/ref/Microsoft.Win32.Registry.Manual.cs",
-        "src/src/Microsoft.Win32.Registry/ref/Microsoft.Win32.Registry.cs",
-        "src/src/Microsoft.Win32.Registry/src/Microsoft/Win32/Registry.cs",
-        "src/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryKey.cs",
-        "src/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryOptions.cs",
-        "src/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryValueKind.cs",
-        "src/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryView.cs",
-        "src/src/Microsoft.Win32.Registry/src/Microsoft/Win32/SafeHandles/SafeRegistryHandle.cs",
-        "src/src/Microsoft.Win32.Registry/src/Microsoft/Win32/ThrowHelper.cs",
-        "src/src/Microsoft.Win32.Registry/src/System/Security/AccessControl/RegistryRights.cs"
+        "runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll"
       ]
     },
     "NETStandard.Library/1.6.1": {
-      "sha512": "06t7Y0IQTdwNCrT92oxhGxAmkQswwKsXjKe1b5zPkdK8ZarZxXJQ5etAB+vAjCqVfvz1etP1ZBILNJkzxON19Q==",
+      "sha512": "4Z9zSJiQ2kHi2p/fQslJKWrVlGkQQizu6uaDPhEJHfRJHc/MU+2iO7NUgysKCGXY2sTfOXWBMK2ax+sjnDn4gA==",
       "type": "package",
       "path": "NETStandard.Library/1.6.1",
       "files": [
@@ -6828,7 +6575,7 @@
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "ROPsNlFSBLL6Rr77oERLWhExaCXcDCWfEzCXqy5VmCBCoFLYDi3JARKC0LOhoSenl31mZ9AQ02Xids5xOwQdSg==",
+      "sha512": "MpWUvfz5Fn4LYEILxEsYFGo9NHkPCd2wAYN0hoPqQLXNibMZ/G/h4m2pvEwJJix/oZ+AtfzbteN6rZfVfiTlIQ==",
       "type": "package",
       "path": "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -6840,7 +6587,7 @@
       ]
     },
     "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "DhKe98iw4CYEXOszLdRLTqUR4WXSyM+jUBy/qjwQ4AAnGcq34TUuVgA2nMn67auevBMOMmX58/Bt9ZzhBOYIcw==",
+      "sha512": "ljz9BYPT/VEOzROrw+6Ytx34gRvSFGww+LqhoPOvTzJCfhnk+NzPCWovXq31bwlRBTfhMi8VhhFaI6QLrShplA==",
       "type": "package",
       "path": "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -6852,7 +6599,7 @@
       ]
     },
     "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "c8k0RCoR6ljZqo4bktYkCsLVJB+WFyEeFxmB2Db36qYqSTIO+97fsghqQ+563wLqwBpIQBNwXbP9l6DVb/3YbQ==",
+      "sha512": "et5PHQT9qDvC+I/Nhnh2oBr9FQijp0nRB/gBDLU5ZrRENcsVkUWkMrAKIiBWgZaLvrAW/nUR7cymRiinMFPDOQ==",
       "type": "package",
       "path": "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -6864,7 +6611,7 @@
       ]
     },
     "runtime.native.System/4.3.0": {
-      "sha512": "J6rppN/N1Iig8v6YIeAMzKQPqKQQtXYHz14fZ9DuZTa3YqlPC69I6OW1uRTIxfPeLwy5Lv/nKLqUW84ziLRhgA==",
+      "sha512": "C6JmGRjSg9i1FvPx+0EVTgJ0aRP1quGN49+4czJPMZN/7oDW5DgIQPnTsJhbiT1kWLK4b1+QnO0IAE4wYh/o5w==",
       "type": "package",
       "path": "runtime.native.System/4.3.0",
       "files": [
@@ -6876,7 +6623,7 @@
       ]
     },
     "runtime.native.System.IO.Compression/4.3.0": {
-      "sha512": "WvcANfFMc3bazLB9RQvZ5V5CDyhoNg5OQPcGBG1ffi7ysdePAoL8GpBsjbqJEuEHKNeqdefcULXzBbJL4SyW4A==",
+      "sha512": "SvYM9qIftXmiRZ4E7sTfzFkiYnEK7Lm2jm6bVkEcbyc5SRmGDAhryXhDl4ldf+NhE8Icnf+uDNwZm4iJJzpgrg==",
       "type": "package",
       "path": "runtime.native.System.IO.Compression/4.3.0",
       "files": [
@@ -6888,7 +6635,7 @@
       ]
     },
     "runtime.native.System.Net.Http/4.3.0": {
-      "sha512": "pWqI06v6WGGmjQQHV6jV7acGV0PekCuomM5lX8YC9yFBvlYtaU74Tr7ZQuTQHI4sg+bOsYKHy4d/0wr57VMQZw==",
+      "sha512": "JH8NgDLWMebhYEAL1wbeQEETOc1jDfBzb9GtHY7+oESJYAXmzSKFwzMlw8Qh77zWZZuSTLzyn98SOLmz9SCteA==",
       "type": "package",
       "path": "runtime.native.System.Net.Http/4.3.0",
       "files": [
@@ -6900,7 +6647,7 @@
       ]
     },
     "runtime.native.System.Net.Security/4.0.1": {
-      "sha512": "HsAbHxLI9iYbxlQwUi/jMD2lTRNlHoO/8+GAnlgI6nnoes7Ib9PoNlSKAo98VMuOVDUn5ng7HOQPDB0Cypz6Sw==",
+      "sha512": "Az6Ff6rZFb8nYGAaejFR6jr8ktt9f3e1Q/yKdw0pwHNTLaO/1eCAC9vzBoR9YAb0QeZD6fZXl1A9tRB5stpzXA==",
       "type": "package",
       "path": "runtime.native.System.Net.Security/4.0.1",
       "files": [
@@ -6912,7 +6659,7 @@
       ]
     },
     "runtime.native.System.Security.Cryptography/4.0.0": {
-      "sha512": "n8qvSH9s1T00kqHeWlyAtwVYvQGYHPglGvit1xXqgQNLgrDGOEiPXuIF/N4sC/NaYjXqMU86miJn1GEcik9+mg==",
+      "sha512": "2CQK0jmO6Eu7ZeMgD+LOFbNJSXHFVQbCJJkEyEwowh1SCgYnrn9W9RykMfpeeVGw7h4IBvYikzpGUlmZTUafJw==",
       "type": "package",
       "path": "runtime.native.System.Security.Cryptography/4.0.0",
       "files": [
@@ -6924,7 +6671,7 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.Apple/4.3.0": {
-      "sha512": "Kpt07AZF80kviGEvhAYUnAaOHgnr96ko+NYCoKPj7qVUN+PzOrPZuC4HGkmIMnipKONNSO3ntIM7KXJ3tXhRIw==",
+      "sha512": "YTjWj1n8eL4HzVCd+UKhy+UQ14T0q+Ert7Ej6XDwIlVCpdu5ZmrcR6vYJws7RIJGIG5cwa1UhZvmclzKrJYMag==",
       "type": "package",
       "path": "runtime.native.System.Security.Cryptography.Apple/4.3.0",
       "files": [
@@ -6936,7 +6683,7 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "JNnfNxSo0/RxE7nlupAK3nOr1cFY58A6L2MHiCDx5IOfsmul5QXlyI2i3T4GKSko4R+U1ydImL1LWIlWg9ly0Q==",
+      "sha512": "BqiiCjMQ3vsq1spaHR9Rqx0/Qm45/uKU+ogHZZqDHoxgFv0Q9G6dfRygZnxN0cDnE3WHgPhsc5Mk62EhjQ90zA==",
       "type": "package",
       "path": "runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -6948,7 +6695,7 @@
       ]
     },
     "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "H80x6GHjY2kD1sPfCNbe1xjE6OtK3CkAWhNPdZOxL8kfcy9YoyHCoE9OcxM4Xv6n6uuOt0SBuGkMAlJNt4avUQ==",
+      "sha512": "sojcZDFSWM8X1DX/NI1uZCqRB5OfbQ4QDfGuxMcYbkQXa1JZ1TGG58oIt/C6hUBH2sKOMKVNO1qIK3vRgnZAbA==",
       "type": "package",
       "path": "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -6960,7 +6707,7 @@
       ]
     },
     "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "OwrfN/AnSGOzj9No66lY3l4fp26MQUO5jUEjIsynn5XFwz8RdinHlK4gsAOP9E0bUMeXlz3Cc1a58dRxUILObg==",
+      "sha512": "6F1ENpiIuv4Wa0PjNMJDL1TMlELRiNCjJY8qjV8rNvW6Jaq3oRFY2/kKg3fysnYJhKJbeF0dsqjmI/C5wsI2Eg==",
       "type": "package",
       "path": "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -6972,7 +6719,7 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {
-      "sha512": "RjZkfxIU1gbmCS2Y3aiSzYSyTY+mUJcMdVwXVB2tuOeJz/y//hIP9ghfjLh4VBYc0VMLjYEOXm2v0ALyd+aEtw==",
+      "sha512": "EE5iTjiqDMbCxmI8qZLQz3YffZIPwsJ73i//YYSrEKk4rBdtz9pU+jSrj938VFaWlHJKnHHZrjhb+NSA5q2mPQ==",
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0",
       "files": [
@@ -6984,7 +6731,7 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "T7Xc9SqW9ke115aJKms8HfiyAryakTmdwqXN9Dy0ZXLo6zB6KnLUf+ihu7Zu7EJxWaVxncmhi3bDtJb4nooC1w==",
+      "sha512": "Rim+klZD5NLxP2WV7RphDY5oYR3DvTee1tugCUtaBhp9n4XPph9SLDQYRZBoBO3ww9m62Ag8/EQnGhLVxIDtvg==",
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -7122,7 +6869,7 @@
       ]
     },
     "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "8xzogAEwExQCueefM7/RkT7D6d2VG2Vc1wlj0tQESkcsNWV1qbdfvoJv/qWlCqMBBzxb1B6KLJDu1Uz+o2TAsw==",
+      "sha512": "pb+M1OOB4w4N3sFnixpYMvmR7Ugili6pox6aZxdpV6BHq8QIPDDyDLzGPz4IL+oWAjPQdRNpiGMhb8Q00vB7GA==",
       "type": "package",
       "path": "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -7134,7 +6881,7 @@
       ]
     },
     "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "ZjNXRLmcdIpabnqBNZpo2wDdCzoL4hF4hlAWcjSq0pWupcq63iEVexygVsub47riZcSaaFO2QTxGPQXBdyMkEg==",
+      "sha512": "pe2LwS05k6AryKc+DE0IxjjXy6W0c7JIegNlfOxVo/YzkZdYz6j3Pog+4ysIkAQXvxbexFKJiTQd4+cz//OYSw==",
       "type": "package",
       "path": "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -7146,7 +6893,7 @@
       ]
     },
     "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "CHKmPUMrll4Jk9ellsMEbf/HGp7U4dSCOqF/Vp05FmRe3fgbzwhBD3Wtsa0EdiPlvpoO50dOCyGO7k4hTpEIKQ==",
+      "sha512": "XE7yMwbRm6G33NgZAhrOfFY0lmMIR8srjMwOmQl8DjobdwwN3KxcyAERoPS5qPnaz5pSfqxooqYxP6inl9TLwQ==",
       "type": "package",
       "path": "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -7158,7 +6905,7 @@
       ]
     },
     "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "ohVKKSVGEen07Gx5YlSwnl6hemksiHTgr2pcMREhIyJrm5bB1tKDjRMaX/ZaaiPKqyiHOUWEKIdklCRCOxbuDw==",
+      "sha512": "oaVgwDngfZ4BW6nhyMwjf1VDSkyghAfRtfuv56Q7XQIbVRKP9dFXLqLexfHUvyU+GGCKe5ZvlffxOVZkXiTHkQ==",
       "type": "package",
       "path": "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -7274,7 +7021,7 @@
       ]
     },
     "System.AppContext/4.3.0": {
-      "sha512": "/vigfsN67/7DlHuC7Iiq4UgTPIJWOkn0wWjXyPJdjmLQ7yshKrl+cbzL7za7RlbV+0wZKBG/HQm1hZJ1ZMBXYg==",
+      "sha512": "liI1cXG6Fhaq6nYGu66nxg1VhEn9sRlvUAGIw+byx22hxGHZxPzVkPzMy12lYEnmwtNIGYgT7rE8HZc7dq6BqA==",
       "type": "package",
       "path": "System.AppContext/4.3.0",
       "files": [
@@ -7327,7 +7074,7 @@
       ]
     },
     "System.Buffers/4.3.0": {
-      "sha512": "QlQ1ltff4C7qGtSTs4+9k3wO4/jpDW0cfnLTd6r1BhzrkNN5dlXSx2a1GmzRkPj11TVAGSCWYd+U8rukHKgfJA==",
+      "sha512": "/PUhaZCIjbxgfDbBRHMVYWwxvgeXCHcODvQ3hXMjHQHb8pcm3nQS90Bo3QBLxGgnq39zNiAUDRYmXH85uQfFTg==",
       "type": "package",
       "path": "System.Buffers/4.3.0",
       "files": [
@@ -7340,7 +7087,7 @@
       ]
     },
     "System.Collections/4.3.0": {
-      "sha512": "xhtQ8iMWRQFd7Y4xT8aSg4Ok4TfhmJggZFTJys8k0zeb59+gVeB/t1W6MRpzuktdSLkaDMwQH0sbM8Jet4M+Sw==",
+      "sha512": "8cMY3WS0j0HRts9obHtseJ8JAUErZl16kZ5B3hkhx1LJ8v9kLlf3xSl/bkMbmSd0VmdpNhLUTt61prLFR5Dz5w==",
       "type": "package",
       "path": "System.Collections/4.3.0",
       "files": [
@@ -7406,7 +7153,7 @@
       ]
     },
     "System.Collections.Concurrent/4.3.0": {
-      "sha512": "/afvCQYsbZVpK27nkPO8vh0UoNwHNALE7BYwdEROyXarga92VlLmNLvruzaJOXbBPKNvPTktezB01jAmPspwfQ==",
+      "sha512": "uyGZOtbDOH8yh0xomJo/sm9CKQ2I7r9zRZi/GrFQh4/VW0YP0V1KFE0GL9ZizIQ3+rcGck0aK8ldhiWQ6l0qvA==",
       "type": "package",
       "path": "System.Collections.Concurrent/4.3.0",
       "files": [
@@ -7472,7 +7219,7 @@
       ]
     },
     "System.Collections.Immutable/1.3.0": {
-      "sha512": "HdxVoPgInOHyl+BGTQpcB3hQ/e36Ljw5OcZyDUmi31c2n7RQ5lM8F+OJ0s4gLgrscHgoJCX9eLHccgEeRj5ILA==",
+      "sha512": "uPMgOvJY0abboe3v3lvF6umIDwlsBgbAsXZGtwRqgabOcccG9pnpy7GLkW1MBIu4JYyklxQP/qI8drlx745ESA==",
       "type": "package",
       "path": "System.Collections.Immutable/1.3.0",
       "files": [
@@ -7487,7 +7234,7 @@
       ]
     },
     "System.ComponentModel/4.3.0": {
-      "sha512": "eyi4lfFsG8WknBpu/lpjcEptfxUxO9cSEJe+wY/MLDhvzEfxE3XtbSt2uc2XgEAPbbw7qEL9v45QyTvxrSjY/A==",
+      "sha512": "FWwmhyk3BiQ5lA6N4O989cj+SBTUSGp1LlDmH6YbAPpwb7i6u4rQjkmeyuGJdD3ag2Gh56AE+JralNdELw7PcQ==",
       "type": "package",
       "path": "System.ComponentModel/4.3.0",
       "files": [
@@ -7544,7 +7291,7 @@
       ]
     },
     "System.ComponentModel.Annotations/4.1.0": {
-      "sha512": "Jy2KNEXeDx5loaNb1Yk6WPfnUi4oPhn8VFl5hfTETErR68KZj7SK5JkaAIqVizydNRBrVJvzbX814GE9njp7ng==",
+      "sha512": "rhnz80h8NnHJzoi0nbQJLRR2cJznyqG168q1bgoSpe5qpaME2SguXzuEzpY68nFCi2kBgHpbU4bRN2cP3unYRA==",
       "type": "package",
       "path": "System.ComponentModel.Annotations/4.1.0",
       "files": [
@@ -7617,58 +7364,11 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/NotImplemented.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.ComponentModel.Annotations/ref/System.ComponentModel.Annotations.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/AssociationAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/CompareAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ConcurrencyCheckAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/CreditCardAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/CustomValidationAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DataType.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DataTypeAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DisplayAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DisplayColumnAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DisplayFormatAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/EditableAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/EmailAddressAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/EnumDataTypeAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/FileExtensionsAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/FilterUIHintAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/IValidatableObject.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/KeyAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/LocalizableString.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/MaxLengthAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/MinLengthAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/PhoneAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/RangeAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/RegularExpressionAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/RequiredAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ScaffoldColumnAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/ColumnAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/ComplexTypeAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/DatabaseGeneratedAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/DatabaseGeneratedOption.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/ForeignKeyAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/InversePropertyAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/NotMappedAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/TableAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/StringLengthAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/TimestampAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/UIHintAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/UrlAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationAttribute.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationAttributeStore.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationContext.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationException.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationResult.cs",
-        "src/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Validator.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "System.Console/4.3.0": {
-      "sha512": "9tEfmlxEQUNfQG/oMTaB1rxNpqWi5/w7np2af2g2YwWo2+OAwIjCPahCWhIQ1RnG2Xo1HP9F/neFNohj72vqIg==",
+      "sha512": "T6vRvyI1wW4HLkFG3InEGt9tL0OjRhoP8Uqp/cSMeWz4T83x745hLIp+1tIgK+VxN5ymrfq96LBnLA+eQU6DXQ==",
       "type": "package",
       "path": "System.Console/4.3.0",
       "files": [
@@ -7762,7 +7462,7 @@
       ]
     },
     "System.Diagnostics.Debug/4.3.0": {
-      "sha512": "HWFPtBpLCGsIurpy1S/Xdji2dtIvsZJkMEMoGMNeODGZReOikluwDBF/B+xkwUpivMi/bP8tbGh7AfovCKK2zA==",
+      "sha512": "HArrr99TZF3W+1s3b+QyRBGW9UIQOP9hKOlWa7/oF0UGbkTtGjkM7Fr6fat8359Ur+qtp2MU8xfntvGtrssScw==",
       "type": "package",
       "path": "System.Diagnostics.Debug/4.3.0",
       "files": [
@@ -7828,7 +7528,7 @@
       ]
     },
     "System.Diagnostics.DiagnosticSource/4.3.0": {
-      "sha512": "guxcfi9upoigBapD3t1NPzXW74/mjqqcNO5v137xFcXd3iK7xhv6MoDV78oTZaZ663m+GG4xxtz0ugFwzXK1Og==",
+      "sha512": "tUyMBX2ZZD+6PR0cCWJ5WP4YaeCS1b7mZd8PjjOsghhmIO9/aGSFaJ1szHrMDAa0zZO2FSQxIKlvAJ/FoRSjAg==",
       "type": "package",
       "path": "System.Diagnostics.DiagnosticSource/4.3.0",
       "files": [
@@ -7847,7 +7547,7 @@
       ]
     },
     "System.Diagnostics.FileVersionInfo/4.0.0": {
-      "sha512": "ygHpiIp6OcQpNXG1n8ESHRlvPhC/HQOP4WDDOdNvv1xoeKqMt3KaIHZs4LFFpIvTrhYAPTevEZULs3NQ1uIQTw==",
+      "sha512": "fQXauAnx5CYDgGI+cyaEpGYnhcey0OnrV0F3TKuemipnDDBWSM8XFk3DLOceADbWKWTHbP8lbq7+KPvTEiyBUg==",
       "type": "package",
       "path": "System.Diagnostics.FileVersionInfo/4.0.0",
       "files": [
@@ -7883,23 +7583,11 @@
         "runtimes/unix/lib/netstandard1.3/System.Diagnostics.FileVersionInfo.dll",
         "runtimes/win/lib/net46/System.Diagnostics.FileVersionInfo.dll",
         "runtimes/win/lib/netcore50/System.Diagnostics.FileVersionInfo.dll",
-        "runtimes/win/lib/netstandard1.3/System.Diagnostics.FileVersionInfo.dll",
-        "src/src/Common/src/Interop/Windows/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.FileVersionInfo.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.FileVersionInfoType.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetFileVersionInfoEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetFileVersionInfoSizeEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.VSFixedFileInfo.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.VerLanguageName.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.VerQueryValue.cs",
-        "src/src/System.Diagnostics.FileVersionInfo/ref/System.Diagnostics.FileVersionInfo.cs",
-        "src/src/System.Diagnostics.FileVersionInfo/src/System/Diagnostics/FileVersionInfo.Metadata.cs",
-        "src/src/System.Diagnostics.FileVersionInfo/src/System/Diagnostics/FileVersionInfo.Windows.cs",
-        "src/src/System.Diagnostics.FileVersionInfo/src/System/Diagnostics/FileVersionInfo.cs"
+        "runtimes/win/lib/netstandard1.3/System.Diagnostics.FileVersionInfo.dll"
       ]
     },
     "System.Diagnostics.Process/4.1.0": {
-      "sha512": "WBhzXAhUW4sDv7N000og2LHp0ZlzHil9n2di5KAde814zD5mLhjse5nNq63MibfD8ttjIvxQODh9xufQ5g9p+g==",
+      "sha512": "mpVZ5bnlSs3tTeJ6jYyDJEIa6tavhAd88lxq1zbYhkkCu0Pno2+gHXcvZcoygq2d8JxW3gojXqNJMTAshduqZA==",
       "type": "package",
       "path": "System.Diagnostics.Process/4.1.0",
       "files": [
@@ -7950,131 +7638,7 @@
         "runtimes/win/lib/net46/System.Diagnostics.Process.dll",
         "runtimes/win/lib/net461/System.Diagnostics.Process.dll",
         "runtimes/win/lib/netstandard1.4/System.Diagnostics.Process.dll",
-        "runtimes/win7/lib/netcore50/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/Interop/Linux/procfs/Interop.ProcFsStat.cs",
-        "src/src/Common/src/Interop/OSX/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/OSX/Interop.libproc.cs",
-        "src/src/Common/src/Interop/Unix/Interop.Errors.cs",
-        "src/src/Common/src/Interop/Unix/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.Close.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.ForkAndExecProcess.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.GetHostName.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.GetLine.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.GetPid.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.GetSetPriority.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.GetSid.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.Kill.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.POpen.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.PathConf.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.ReadLink.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.ResourceLimits.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.SchedGetSetAffinity.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.SysConf.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.WaitPid.cs",
-        "src/src/Common/src/Interop/Windows/Interop.BOOL.cs",
-        "src/src/Common/src/Interop/Windows/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Windows/NtDll/Interop.NtQueryInformationProcess.cs",
-        "src/src/Common/src/Interop/Windows/NtDll/Interop.NtQuerySystemInformation.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.AdjustTokenPrivileges.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CloseHandle.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CreatePipe_SafeFileHandle.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CreateProcess.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CreateProcessWithLogon.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.DuplicateHandle_SafeProcessHandle.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.EnumProcessModules.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.EnumProcesses.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.Errors.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetComputerName.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetConsoleCP.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetConsoleOutputCP.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetCurrentProcessId.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetCurrentProcess_SafeProcessHandle.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetExitCodeProcess.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetModuleBaseName.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetModuleFileNameEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetModuleInformation.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetPriorityClass.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetProcessAffinityMask.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetProcessPriorityBoost.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetProcessTimes.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetProcessWorkingSetSizeEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetStdHandle.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetThreadPriority.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetThreadPriorityBoost.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetThreadTimes.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.HandleOptions.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.HandleTypes.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.IsWow64Process.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.LUID.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.LookupPrivilegeValue.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.OpenProcess.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.OpenProcessToken.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.OpenThread.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.PERF_INFO.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.ProcessOptions.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SECURITY_ATTRIBUTES.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SetPriorityClass.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SetProcessAffinityMask.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SetProcessPriorityBoost.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SetProcessWorkingSetSizeEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SetThreadAffinityMask.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SetThreadIdealProcessor.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SetThreadPriority.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SetThreadPriorityBoost.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.TerminateProcess.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.ThreadOptions.cs",
-        "src/src/Common/src/System/Collections/Generic/EnumerableHelpers.cs",
-        "src/src/Common/src/System/IO/StringParser.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/Common/src/System/StringExtensions.cs",
-        "src/src/Common/src/System/Text/ConsoleEncoding.cs",
-        "src/src/Common/src/System/Text/EncodingHelper.cs",
-        "src/src/Common/src/System/Text/ReusableTextReader.cs",
-        "src/src/System.Diagnostics.Process/ref/4.0/System.Diagnostics.Process.Manual.cs",
-        "src/src/System.Diagnostics.Process/ref/4.0/System.Diagnostics.Process.cs",
-        "src/src/System.Diagnostics.Process/ref/System.Diagnostics.Process.Manual.cs",
-        "src/src/System.Diagnostics.Process/ref/System.Diagnostics.Process.cs",
-        "src/src/System.Diagnostics.Process/src/Microsoft/Win32/SafeHandles/SafeProcessHandle.Unix.cs",
-        "src/src/System.Diagnostics.Process/src/Microsoft/Win32/SafeHandles/SafeProcessHandle.Windows.cs",
-        "src/src/System.Diagnostics.Process/src/Microsoft/Win32/SafeHandles/SafeProcessHandle.cs",
-        "src/src/System.Diagnostics.Process/src/Microsoft/Win32/SafeHandles/SafeThreadHandle.cs",
-        "src/src/System.Diagnostics.Process/src/Microsoft/Win32/SafeHandles/SafeTokenHandle.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/AsyncStreamReader.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/DataReceivedEventArgs.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ModuleInfo.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/PerformanceCounterLib.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/Process.Linux.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/Process.OSX.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/Process.Unix.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/Process.Windows.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/Process.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessInfo.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessManager.Linux.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessManager.OSX.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessManager.Unix.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessManager.Windows.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessModule.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessModuleCollection.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessPriorityClass.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessStartInfo.Unix.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessStartInfo.Windows.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessStartInfo.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThread.Linux.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThread.OSX.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThread.Unix.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThread.Windows.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThread.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThreadCollection.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThreadTimes.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessWaitHandle.Unix.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessWaitHandle.Windows.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessWaitState.Unix.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessWindowStyle.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ThreadInfo.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ThreadPriorityLevel.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ThreadState.cs",
-        "src/src/System.Diagnostics.Process/src/System/Diagnostics/ThreadWaitReason.cs"
+        "runtimes/win7/lib/netcore50/_._"
       ]
     },
     "System.Diagnostics.StackTrace/4.3.0": {
@@ -8116,7 +7680,7 @@
       ]
     },
     "System.Diagnostics.Tools/4.3.0": {
-      "sha512": "VmGjFXbMGmUCLxPtkPLpDgVZ8m8MTzdBpDWIwMDSiZSkqwkOH7KQ93e6n695NgZXxaYk+j0kUlfQMHxBsGVgPw==",
+      "sha512": "tVenz1G4sLf5EF9fngsv4Pz3LPs8uMDMd76PaxKMrA12GJZvfhlbvKofHyz1wTMrpYFTemz1DoeLWC1rVZySMw==",
       "type": "package",
       "path": "System.Diagnostics.Tools/4.3.0",
       "files": [
@@ -8171,7 +7735,7 @@
       ]
     },
     "System.Diagnostics.Tracing/4.3.0": {
-      "sha512": "QI8KOQG5nYYBWisyvKV/BbYRjTroFFY68iuUSa8NcaTgFxFQNiv+HGOVnx2kDAmvXnBFezbCxe9EzU/GzPcYlQ==",
+      "sha512": "duF4oJaNd1xAlT5NGgzQxtKipJNceiofcVV8+yS64rnHIJFTkxifLUslX7TvRKHVbn8j14rd9etSiI0LPKLD4w==",
       "type": "package",
       "path": "System.Diagnostics.Tracing/4.3.0",
       "files": [
@@ -8259,7 +7823,7 @@
       ]
     },
     "System.Dynamic.Runtime/4.0.11": {
-      "sha512": "w2fLS1npEM0U9bvfl5QdcV7PpFDfwdUQPmvu/7MESQyQX7janrpddlEEXLh0N7+BgIzW1zV3BAsUzqv/J9Yctw==",
+      "sha512": "db34f6LHYM0U0JpE+sOmjar27BnqTVkbLJhgfwMpTdgTigG/Hna3m2MYVwnFzGGKnEJk2UXFuoVTr8WUbU91/A==",
       "type": "package",
       "path": "System.Dynamic.Runtime/4.0.11",
       "files": [
@@ -8324,74 +7888,11 @@
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._",
-        "runtimes/aot/lib/netcore50/System.Dynamic.Runtime.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/Collections/Generic/EnumerableHelpers.cs",
-        "src/src/Common/src/System/Dynamic/Utils/CacheDict.cs",
-        "src/src/Common/src/System/Dynamic/Utils/CollectionExtensions.AddFirst.cs",
-        "src/src/Common/src/System/Dynamic/Utils/CollectionExtensions.Map.cs",
-        "src/src/Common/src/System/Dynamic/Utils/CollectionExtensions.cs",
-        "src/src/Common/src/System/Dynamic/Utils/ContractUtils.RequiresArrayRange.cs",
-        "src/src/Common/src/System/Dynamic/Utils/ContractUtils.cs",
-        "src/src/Common/src/System/Dynamic/Utils/EmptyReadOnlyCollection.cs",
-        "src/src/Common/src/System/Dynamic/Utils/Error.cs",
-        "src/src/Common/src/System/Dynamic/Utils/ExpressionUtils.cs",
-        "src/src/Common/src/System/Dynamic/Utils/ExpressionVisitorUtils.cs",
-        "src/src/Common/src/System/Dynamic/Utils/ListArgumentProvider.cs",
-        "src/src/Common/src/System/Dynamic/Utils/Strings.cs",
-        "src/src/Common/src/System/Dynamic/Utils/TypeExtensions.cs",
-        "src/src/Common/src/System/Dynamic/Utils/TypeUtils.cs",
-        "src/src/Common/src/System/Linq/Expressions/Compiler/AssemblyGen.cs",
-        "src/src/Common/src/System/Linq/Expressions/Compiler/DelegateHelpers.Generated.cs",
-        "src/src/Common/src/System/Linq/Expressions/Compiler/DelegateHelpers.cs",
-        "src/src/Common/src/System/Runtime/CompilerServices/ReadOnlyCollectionBuilder.cs",
-        "src/src/Common/src/System/Runtime/CompilerServices/TrueReadOnlyCollection.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Dynamic.Runtime/ref/System.Dynamic.Runtime.Manual.cs",
-        "src/src/System.Dynamic.Runtime/ref/System.Dynamic.Runtime.cs",
-        "src/src/System.Dynamic.Runtime/src/Properties/AssemblyInfo.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/BinaryOperationBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/BindingRestrictions.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/CallInfo.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/ConvertBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/CreateInstanceBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/DeleteIndexBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/DeleteMemberBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/DynamicMetaObject.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/DynamicMetaObjectBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/DynamicObject.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/ExpandoClass.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/ExpandoObject.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/GetIndexBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/GetMemberBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/IDynamicMetaObjectProvider.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/IInvokeOnGetBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/InvokeBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/InvokeMemberBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/SetIndexBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/SetMemberBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/UnaryOperationBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/UpdateDelegates.Generated.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/Utils/CollectionExtensions.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/Utils/ContractUtils.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/Utils/Error.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/Utils/Strings.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Dynamic/Utils/TypeExtensions.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Linq/Expressions/Compiler/DelegateHelpers.Generated.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Linq/Expressions/Compiler/TypeInfoExtensions.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Linq/Expressions/DynamicExpression.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Linq/Expressions/DynamicExpressionVisitor.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Runtime/CompilerServices/CallSite.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Runtime/CompilerServices/CallSiteBinder.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Runtime/CompilerServices/CallSiteHelpers.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Runtime/CompilerServices/CallSiteOps.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Runtime/CompilerServices/DynamicAttribute.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Runtime/CompilerServices/RuleCache.cs",
-        "src/src/System.Dynamic.Runtime/src/System/Runtime/CompilerServices/RuntimeOps.cs"
+        "runtimes/aot/lib/netcore50/System.Dynamic.Runtime.dll"
       ]
     },
     "System.Globalization/4.3.0": {
-      "sha512": "3g4fmktQlwXgVudG7qBP/gLDUoUHWUBIkLp3on5iwU8LtZJ0It97wTp0NplH086bDvrGjF0SvxwxU452kc30tQ==",
+      "sha512": "fZm0Gg6e9j6w1uKAHtDdYQJ9Wi9hETOnfFHKF3iEeVH6miQVK52Lyx4v4UcHkjlq/jkBkX6K3NCmkelZQX6PKA==",
       "type": "package",
       "path": "System.Globalization/4.3.0",
       "files": [
@@ -8457,7 +7958,7 @@
       ]
     },
     "System.Globalization.Calendars/4.3.0": {
-      "sha512": "SokVcKskMTYxOWhYQhqfui5t7xA3Vpm0UfREwpuOFbyijCYtD8HhnXqKna9lBWSKrUVc86V5b9TCzSI6CavaFA==",
+      "sha512": "gjmYqiaP7YVU9y3EypeOOw8jjFHovJOyH6ydLG9y3UJltUXcw8xgJKEeeF/zCJTxEpG61PqTReVc4Nv3yFUcag==",
       "type": "package",
       "path": "System.Globalization.Calendars/4.3.0",
       "files": [
@@ -8493,7 +7994,7 @@
       ]
     },
     "System.Globalization.Extensions/4.3.0": {
-      "sha512": "F0jw8T7iJAe90sk9sYzsZ1aCzmWyjNVTThYu9vM+Lzab4RMOny2QiVECXig/G8XAnL3lzeWT27XduEfwsFEa6A==",
+      "sha512": "omuqw/9hkPQyv6wCsxVJsNxeSfcqBZllMAQ24ZNuvJ2QFasor5JfHAUKn+qDBsNQ8lYkqSyitjIqCwafV6TXsg==",
       "type": "package",
       "path": "System.Globalization.Extensions/4.3.0",
       "files": [
@@ -8532,7 +8033,7 @@
       ]
     },
     "System.IO/4.3.0": {
-      "sha512": "6ocaqPeyk2rkhh8MlNJk2MxI/Wc/nnyoFj9b3buQ1MZ9f7zYikDeuKdv/u90Hsl0tbGu16/aaQ5uL83JCOVyQQ==",
+      "sha512": "W8d54SqsAPavCqoc2rHsRf//72xnnwrP1zgQjeWRTeX4zoaD6QCbIBGDbUHymDdlwf3jT2FFxfeV8cD4JVdfhg==",
       "type": "package",
       "path": "System.IO/4.3.0",
       "files": [
@@ -8611,7 +8112,7 @@
       ]
     },
     "System.IO.Compression/4.3.0": {
-      "sha512": "uSwG5HE5KlJOpMBUjvtrRJW641+GEEb8/kKG3rpPcYeone7rhmjzVixhofvBnrSjrt21sr7QugHpULbogpF0Rg==",
+      "sha512": "JFjgUjcraa7Ka1wy2O8wGCrjyZ4skPJPRR7FbPbVvTuC9KW5QOXpE0htwfSmq0966qFLbDPaXm2CZF25u+Xm6A==",
       "type": "package",
       "path": "System.IO.Compression/4.3.0",
       "files": [
@@ -8680,7 +8181,7 @@
       ]
     },
     "System.IO.Compression.ZipFile/4.3.0": {
-      "sha512": "btA4Xa6YuhvDH4fw3wJZXdybeQVifBuGSGM1kl3AlDJjNcEtmbx7kTtS6hMsaNTyFTBR4KKCqIXn3/hYZFnd/A==",
+      "sha512": "QZ7iHBzmjK68fJYfwFVMM32tL5XLW1Lpzxo7I1uG8p2RlKzLueYcMw8keT74s7u77amEyf/9xl23fHuAvEGBqw==",
       "type": "package",
       "path": "System.IO.Compression.ZipFile/4.3.0",
       "files": [
@@ -8717,7 +8218,7 @@
       ]
     },
     "System.IO.FileSystem/4.3.0": {
-      "sha512": "ExFlr8Redv28ryPpVGASkeGXqOuDXGiRthUaUzOTdcldelXNO7ys1hgd90UWc2PtDTcLtFftGavIXflkN7q+9g==",
+      "sha512": "pnz9lmq8P32wiZ/WLK7ZLWmJVnnmpw5JHDLndVWgUy+3aAs9AlvII2U2r9aGnoO7fWSm4/W8Wg4t/NRyxITo3A==",
       "type": "package",
       "path": "System.IO.FileSystem/4.3.0",
       "files": [
@@ -8753,7 +8254,7 @@
       ]
     },
     "System.IO.FileSystem.Primitives/4.3.0": {
-      "sha512": "rYKy0WhkbFySIHhSsPODrYHHp5p46qCXEVBB217I7GhSG8VGcg/TnQErpNywDq9WmjBlG7+pvSaIyOmjkjYDWw==",
+      "sha512": "EegRq5IJnKSInK/LCEbUtMh0biGO3+mLjV43jU33IAOOAd9WjGyzTwcJgcbDeyt+mb41tfp3SwqKsxAVIyaNRw==",
       "type": "package",
       "path": "System.IO.FileSystem.Primitives/4.3.0",
       "files": [
@@ -8790,7 +8291,7 @@
       ]
     },
     "System.IO.FileSystem.Watcher/4.3.0": {
-      "sha512": "15quNyP/UkuGLapQnjDsXpeO3Iw2x6BZKcJHyM9GUeO1gZd9XlysWwHaIUaHwesRxKlO3Yep8fuKYKPe+Mwf1A==",
+      "sha512": "+tSvzr8UoUVL7rkL3xbW8+qywBBvaoXKJUyyEdsA9aEDLHZorn2hgf5Fee3nSNazjDG+Jg8K4lxRa1Y/V8bXtA==",
       "type": "package",
       "path": "System.IO.FileSystem.Watcher/4.3.0",
       "files": [
@@ -8831,7 +8332,7 @@
       ]
     },
     "System.IO.MemoryMappedFiles/4.0.0": {
-      "sha512": "CPE7ML2WMtkm8IjjlUMNmgw11jApIla6a/AZGWVoFTVfktabOF+GInZNjpQsoehgq2WAapYN00S+EkAByP6R2w==",
+      "sha512": "Xqj4xaFAnLVpss9ZSUIvB/VdJAA7GxZDnFGDKJfiGAnZ5VnFROn6eOHWepFpujCYTsh6wlZ3B33bqYkF0QJ7Eg==",
       "type": "package",
       "path": "System.IO.MemoryMappedFiles/4.0.0",
       "files": [
@@ -8867,80 +8368,11 @@
         "runtimes/unix/lib/netstandard1.3/System.IO.MemoryMappedFiles.dll",
         "runtimes/win/lib/net46/System.IO.MemoryMappedFiles.dll",
         "runtimes/win/lib/netcore50/System.IO.MemoryMappedFiles.dll",
-        "runtimes/win/lib/netstandard1.3/System.IO.MemoryMappedFiles.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/Interop/Unix/Interop.Errors.cs",
-        "src/src/Common/src/Interop/Unix/Interop.IOErrors.cs",
-        "src/src/Common/src/Interop/Unix/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.FTruncate.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.Fcntl.SetCloseOnExec.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.MAdvise.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.MMap.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.MSync.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.MUnmap.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.Open.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.OpenFlags.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.Permissions.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.ShmOpen.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.SysConf.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.Unlink.cs",
-        "src/src/Common/src/Interop/Windows/Interop.BOOL.cs",
-        "src/src/Common/src/Interop/Windows/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CloseHandle.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CreateFileMapping.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CreateFileMappingFromApp.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.Errors.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.EventLogErrors.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.FileAttributes.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.FileOperations.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.FileShareMode.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.FlushViewOfFile.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.FormatMessage.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GenericOperations.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetSystemInfo.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GlobalMemoryStatusEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.HandleOptions.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.MEMORY_BASIC_INFO.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.MapViewOfFile.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.MapViewOfFileFromApp.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.MemOptions.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.OpenFileMapping.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.OpenFileMappingFromApp.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.PipeOptions.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SECURITY_ATTRIBUTES.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SYSTEM_INFO.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.SecurityOptions.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.UnmapViewOfFile.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.VirtualAlloc.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.VirtualAllocFromApp.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.VirtualQuery.cs",
-        "src/src/Common/src/System/IO/Error.cs",
-        "src/src/Common/src/System/IO/Win32Marshal.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.IO.MemoryMappedFiles/ref/System.IO.MemoryMappedFiles.Manual.cs",
-        "src/src/System.IO.MemoryMappedFiles/ref/System.IO.MemoryMappedFiles.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/Microsoft/Win32/SafeMemoryMappedFileHandle.Unix.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/Microsoft/Win32/SafeMemoryMappedFileHandle.Windows.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/Microsoft/Win32/SafeMemoryMappedViewHandle.Unix.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/Microsoft/Win32/SafeMemoryMappedViewHandle.Windows.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/Microsoft/Win32/SafeMemoryMappedViewHandle.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/Interop.Windows.NETCore50.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/Interop.Windows.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedFile.Unix.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedFile.Windows.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedFile.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedFileAccess.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedFileOptions.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedFileRights.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedView.Unix.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedView.Windows.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedView.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedViewAccessor.cs",
-        "src/src/System.IO.MemoryMappedFiles/src/System/IO/MemoryMappedFiles/MemoryMappedViewStream.cs"
+        "runtimes/win/lib/netstandard1.3/System.IO.MemoryMappedFiles.dll"
       ]
     },
     "System.IO.UnmanagedMemoryStream/4.0.1": {
-      "sha512": "ZEF23tVDX9CdYwWn/bbMIV53QdcALeGYiKRgl2P/768/sqAhdp2WRtEBf0yAjtMxalN/8P5TxD5yLyTEunxluA==",
+      "sha512": "wcq0kXcpfJwdl1Y4/ZjDk7Dhx5HdLyRYYWYmD8Nn8skoGYYQd2BQWbXwjWSczip8AL4Z57o2dWWXAl4aABAKiQ==",
       "type": "package",
       "path": "System.IO.UnmanagedMemoryStream/4.0.1",
       "files": [
@@ -8973,17 +8405,11 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.IO.UnmanagedMemoryStream/ref/System.IO.UnmanagedMemoryStream.cs",
-        "src/src/System.IO.UnmanagedMemoryStream/src/Common/Error.cs",
-        "src/src/System.IO.UnmanagedMemoryStream/src/System/IO/UnmanagedMemoryAccessor.cs",
-        "src/src/System.IO.UnmanagedMemoryStream/src/System/IO/UnmanagedMemoryStream.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "System.Linq/4.3.0": {
-      "sha512": "BtVjO9zRwLXuxxf6+Q7J8S4ROSLE7ZRSID7oT+1/YWg3LZsF1tyeEq5lyp55kYw97nmMcuSy95QlvsaIK+SFHA==",
+      "sha512": "9fcaafup81gbOoi8Uk7Tavvpe7itG/sDWp+wXSyWUpVdqlgJwMwsKhewOorWGM5yefrIhxpaZUXiUR6o8Jbblw==",
       "type": "package",
       "path": "System.Linq/4.3.0",
       "files": [
@@ -9053,7 +8479,7 @@
       ]
     },
     "System.Linq.Expressions/4.3.0": {
-      "sha512": "NyW8DPc2OwjYE4gP1p5yfR9MSaTBVgQeTH8d3DLKJkE5EWzBovepWGH9+gwN2EqxZNkaIch5d30yNgGH9Lbt1Q==",
+      "sha512": "/N6LBFgD6+Jxl0xevVAqDjW3AgcksptyTSrY0RScM4Y/+nZ1+ruuRCMXbdzMx/2CqGORY8tD9fIxT6v/ARonFA==",
       "type": "package",
       "path": "System.Linq.Expressions/4.3.0",
       "files": [
@@ -9135,7 +8561,7 @@
       ]
     },
     "System.Linq.Parallel/4.0.1": {
-      "sha512": "Pn/HI/uRPLBVfjcIN5Dq5m3HNOxFEyGNVqK2r9IK60inhKmynhc9pWQB72BBMms8WS7omBkAuPF5QZ9gdUjb+A==",
+      "sha512": "J7XCa7n2cFn32uLbtceXfBFhgCk5M++50lylHKNbqTiJkw5y4Tglpi6amuJNPCvj9bLzNSI7rs1fi4joLMNRgg==",
       "type": "package",
       "path": "System.Linq.Parallel/4.0.1",
       "files": [
@@ -9186,151 +8612,11 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Linq.Parallel/ref/System.Linq.Parallel.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Channels/AsynchronousChannel.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Channels/SynchronousChannel.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/AggregationMinMaxHelpers.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/EmptyEnumerable.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/EnumerableWrapperWeakToStrong.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/IParallelPartitionable.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/OrderedParallelQuery.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/ParallelEnumerableWrapper.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/ParallelQuery.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/QueryAggregationOptions.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/RangeEnumerable.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/RepeatEnumerable.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Helpers.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/ArrayMergeHelper.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/AsynchronousChannelMergeEnumerator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/DefaultMergeHelper.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/IMergeHelper.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/MergeEnumerator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/MergeExecutor.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/OrderPreservingMergeHelper.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/OrderPreservingPipeliningMergeHelper.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/SynchronousChannelMergeEnumerator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/HashRepartitionEnumerator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/HashRepartitionStream.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/IPartitionedStreamRecipient.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/OrderedHashRepartitionEnumerator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/OrderedHashRepartitionStream.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/PartitionedDataSource.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/PartitionedStream.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/UnorderedHashRepartitionStream.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/AssociativeAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/ConcatQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/ExceptQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/GroupJoinQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/HashJoinQueryOperatorEnumerator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/IntersectQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/JoinQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/UnionQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/ZipQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/BinaryQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/CountAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DecimalAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DecimalMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DecimalSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DoubleAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DoubleMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DoubleSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/FloatAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/FloatMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/FloatSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/InlinedAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/InlinedAggregationOperatorEnumerator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/IntAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/IntMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/IntSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/LongAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/LongCountAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/LongMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/LongSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDecimalAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDecimalMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDecimalSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDoubleAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDoubleMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDoubleSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableFloatAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableFloatMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableFloatSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableIntAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableIntMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableIntSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableLongAverageAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableLongMinMaxAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableLongSumAggregationOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/ListQueryResults.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Options/OrderingQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Options/QueryExecutionOption.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/OrdinalIndexState.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/PartitionedStreamMerger.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/PartitionerQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QueryOpeningEnumerator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QueryOperatorEnumerator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QueryResults.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QuerySettings.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/ScanQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/AnyAllSearchOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/ContainsSearchOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/DefaultIfEmptyQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/DistinctQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/ElementAtQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/FirstQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/ForAllOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/GroupByQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/IndexedSelectQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/IndexedWhereQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/LastQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/ReverseQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/SelectManyQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/SelectQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/SingleQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/SortQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/TakeOrSkipQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/TakeOrSkipWhileQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/WhereQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/UnaryQueryOperator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/CancellationState.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/OrderPreservingPipeliningSpoolingTask.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/OrderPreservingSpoolingTask.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/QueryLifecycle.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/QueryTask.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/QueryTaskGroupState.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/Scheduling.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/SpoolingTask.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/SpoolingTaskBase.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/CancellableEnumerable.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/ExceptionAggregator.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/ExchangeUtilities.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/FixedMaxHeap.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/GrowingArray.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/HashLookup.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/IntValueEvent.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/ListChunk.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Lookup.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/PLINQETWProvider.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Pair.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/PairComparer.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/ReverseComparer.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Shared.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Sorting.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/TraceHelpers.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Util.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Wrapper.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/WrapperEqualityComparer.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/ParallelEnumerable.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/ParallelExecutionMode.cs",
-        "src/src/System.Linq.Parallel/src/System/Linq/ParallelMergeOptions.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "ejeSu5F/cB2KQNLLtBxbuAuImn4NEpzESC6q09JbUxbZEP875JYrb3fnp5mTZMQVx5Iq2mJ25guwF04hHCOTvA==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "System.Linq.Queryable/4.0.1",
       "files": [
@@ -9383,21 +8669,11 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Linq.Queryable/ref/System.Linq.Queryable.cs",
-        "src/src/System.Linq.Queryable/src/System/Linq/EnumerableExecutor.cs",
-        "src/src/System.Linq.Queryable/src/System/Linq/EnumerableQuery.cs",
-        "src/src/System.Linq.Queryable/src/System/Linq/EnumerableRewriter.cs",
-        "src/src/System.Linq.Queryable/src/System/Linq/Error.cs",
-        "src/src/System.Linq.Queryable/src/System/Linq/Queryable.cs",
-        "src/src/System.Linq.Queryable/src/System/Linq/Strings.cs",
-        "src/src/System.Linq.Queryable/src/System/Linq/TypeHelper.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "System.Net.Http/4.3.0": {
-      "sha512": "IUcpAu8a1GDkAIoVtwdbe/hPj8YTAubeWtw9R1FRQkIOdkmSQDbwsouEC0/7gWA4lX+Gaz+4lh/BUEBMYyG2pg==",
+      "sha512": "JEz17/Dw2JKvSH1szB3M5mvkBqPFhyTL1NbK6EvR5Lgn9QKkAgrtYuTK9GAkIkllH3So0qIvy2YUQgee6eekcA==",
       "type": "package",
       "path": "System.Net.Http/4.3.0",
       "files": [
@@ -9477,7 +8753,7 @@
       ]
     },
     "System.Net.NameResolution/4.0.0": {
-      "sha512": "qZlTyvoJWIxtIYwVdAFK+VumHyMBMSnXmCrseCccNIwFFhcJuJVSoXsSY1SgxlTI27PH/LrMgekMQBg6J9bydg==",
+      "sha512": "JdqRdM1Qym3YehqdKIi5LHrpypP4JMfxKQSNCJ2z4WawkG0il+N3XfNeJOxll2XrTnG7WgYYPoeiu/KOwg0DQw==",
       "type": "package",
       "path": "System.Net.NameResolution/4.0.0",
       "files": [
@@ -9513,71 +8789,11 @@
         "runtimes/unix/lib/netstandard1.3/System.Net.NameResolution.dll",
         "runtimes/win/lib/net46/System.Net.NameResolution.dll",
         "runtimes/win/lib/netcore50/System.Net.NameResolution.dll",
-        "runtimes/win/lib/netstandard1.3/System.Net.NameResolution.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/Interop/Interop.CheckedAccess.cs",
-        "src/src/Common/src/Interop/Unix/Interop.Errors.cs",
-        "src/src/Common/src/Interop/Unix/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.Close.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.GetHostName.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.GetNameInfo.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.HostEntry.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.IPAddress.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.Socket.cs",
-        "src/src/Common/src/Interop/Unix/System.Native/Interop.SocketAddress.cs",
-        "src/src/Common/src/Interop/Windows/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/AddressInfo.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/AddressInfoHints.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/Interop.GetAddrInfoW.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/Interop.GetNameInfoW.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/Interop.WSASocketW.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/Interop.WSAStartup.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/Interop.closesocket.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/Interop.freeaddrinfo.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/Interop.gethostbyaddr.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/Interop.gethostbyname.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/Interop.gethostname.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/ProtocolFamily.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/SafeFreeAddrInfo.cs",
-        "src/src/Common/src/Interop/Windows/Winsock/hostent.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/SafeHandleZeroOrMinusOneIsInvalid.cs",
-        "src/src/Common/src/System/Net/ByteOrder.cs",
-        "src/src/Common/src/System/Net/ContextAwareResult.Unix.cs",
-        "src/src/Common/src/System/Net/ContextAwareResult.Windows.cs",
-        "src/src/Common/src/System/Net/ContextAwareResult.cs",
-        "src/src/Common/src/System/Net/ContextAwareResult.netcore50.cs",
-        "src/src/Common/src/System/Net/DebugSafeHandle.cs",
-        "src/src/Common/src/System/Net/IPEndPointStatics.cs",
-        "src/src/Common/src/System/Net/IntPtrHelper.cs",
-        "src/src/Common/src/System/Net/InternalException.cs",
-        "src/src/Common/src/System/Net/Internals/IPAddressExtensions.cs",
-        "src/src/Common/src/System/Net/Internals/SocketExceptionFactory.Unix.cs",
-        "src/src/Common/src/System/Net/Internals/SocketExceptionFactory.Windows.cs",
-        "src/src/Common/src/System/Net/Internals/SocketExceptionFactory.cs",
-        "src/src/Common/src/System/Net/InteropIPAddressExtensions.Unix.cs",
-        "src/src/Common/src/System/Net/LazyAsyncResult.cs",
-        "src/src/Common/src/System/Net/Logging/EventSourceLogging.cs",
-        "src/src/Common/src/System/Net/Logging/GlobalLog.cs",
-        "src/src/Common/src/System/Net/Logging/LoggingHash.cs",
-        "src/src/Common/src/System/Net/Logging/NetEventSource.cs",
-        "src/src/Common/src/System/Net/Shims/DBNull.cs",
-        "src/src/Common/src/System/Net/Shims/TraceSource.cs",
-        "src/src/Common/src/System/Net/SocketAddressPal.Unix.cs",
-        "src/src/Common/src/System/Net/SocketProtocolSupportPal.Unix.cs",
-        "src/src/Common/src/System/Net/SocketProtocolSupportPal.Windows.cs",
-        "src/src/Common/src/System/Net/Sockets/ProtocolType.cs",
-        "src/src/Common/src/System/Net/Sockets/SocketType.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Net.NameResolution/ref/System.Net.NameResolution.cs",
-        "src/src/System.Net.NameResolution/src/System/Net/DNS.cs",
-        "src/src/System.Net.NameResolution/src/System/Net/IPHostEntry.cs",
-        "src/src/System.Net.NameResolution/src/System/Net/NameResolutionPal.Unix.cs",
-        "src/src/System.Net.NameResolution/src/System/Net/NameResolutionPal.Windows.cs",
-        "src/src/System.Net.NameResolution/src/System/Net/NameResolutionUtilities.cs"
+        "runtimes/win/lib/netstandard1.3/System.Net.NameResolution.dll"
       ]
     },
     "System.Net.NameResolution/4.3.0": {
-      "sha512": "rmTTiVhsBWTNk/vdUN5CFfbqz7jfzXx3WSHzWPNXpWmuyb82Ih8yIejzCiQuC2y57YZgfBUmxNfTHFAv3HLcsA==",
+      "sha512": "95oyB+xk1bXYAKW3dHHNKeYdaCotZb8E91auodTuH6UBzDJFpPwQlEKQGG326N+lkA1jkBS+L7nVwOZ5CI0u0A==",
       "type": "package",
       "path": "System.Net.NameResolution/4.3.0",
       "files": [
@@ -9617,7 +8833,7 @@
       ]
     },
     "System.Net.Primitives/4.3.0": {
-      "sha512": "xr+JyMs5M7gUB9qLEMVV1XRsftQMq3lti9s5ldpVXEAdpg35o9xDGZjLYoGoTQoRRqUcqB6gV7P8GAL7+Byy2g==",
+      "sha512": "7zrkBzeOtogQ5XG9uMjr2i5Jo0vm7Hku8GoBKlC5KRGK8tgv1riagwrlxh8Za3I7mx89XifJgrNIEwdK1C8VpA==",
       "type": "package",
       "path": "System.Net.Primitives/4.3.0",
       "files": [
@@ -9694,7 +8910,7 @@
       ]
     },
     "System.Net.Requests/4.0.11": {
-      "sha512": "fq7I5StPFZF5KDzcVtiKzU66GjvX05WrLfHVeavSJq/XO5viBjKeOZhhh6XPXdXAMbRKh45rQVvwtcz070QdQA==",
+      "sha512": "vxGt7C0cZixN+VqoSW4Yakc1Y9WknmxauDqzxgpw/FnBdz4kQNN51l4wxdXX5VY1xjqy//+G+4CvJWp1+f+y6Q==",
       "type": "package",
       "path": "System.Net.Requests/4.0.11",
       "files": [
@@ -9771,37 +8987,11 @@
         "ref/xamarinwatchos10/_._",
         "runtimes/unix/lib/netstandard1.3/System.Net.Requests.dll",
         "runtimes/win/lib/net46/_._",
-        "runtimes/win/lib/netstandard1.3/System.Net.Requests.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/Interop/Unix/System.Net.Http.Native/Interop.CURLcode.cs",
-        "src/src/Common/src/Interop/Windows/wininet/Interop.wininet_errors.cs",
-        "src/src/Common/src/System/Net/HttpKnownHeaderNames.cs",
-        "src/src/Common/src/System/Net/HttpValidationHelpers.cs",
-        "src/src/Common/src/System/Net/Logging/LoggingHash.cs",
-        "src/src/Common/src/System/Net/Logging/NetEventSource.cs",
-        "src/src/Common/src/System/NotImplemented.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Net.Requests/ref/System.Net.Requests.Manual.cs",
-        "src/src/System.Net.Requests/ref/System.Net.Requests.cs",
-        "src/src/System.Net.Requests/src/System/Net/HttpRequestHeader.cs",
-        "src/src/System.Net.Requests/src/System/Net/HttpWebRequest.cs",
-        "src/src/System.Net.Requests/src/System/Net/HttpWebResponse.cs",
-        "src/src/System.Net.Requests/src/System/Net/IWebRequestCreate.cs",
-        "src/src/System.Net.Requests/src/System/Net/ProtocolViolationException.cs",
-        "src/src/System.Net.Requests/src/System/Net/RequestStream.cs",
-        "src/src/System.Net.Requests/src/System/Net/SystemWebProxy.cs",
-        "src/src/System.Net.Requests/src/System/Net/TaskExtensions.cs",
-        "src/src/System.Net.Requests/src/System/Net/WebException.cs",
-        "src/src/System.Net.Requests/src/System/Net/WebExceptionPal.Unix.cs",
-        "src/src/System.Net.Requests/src/System/Net/WebExceptionPal.Windows.cs",
-        "src/src/System.Net.Requests/src/System/Net/WebExceptionStatus.cs",
-        "src/src/System.Net.Requests/src/System/Net/WebHeaderCollection.cs",
-        "src/src/System.Net.Requests/src/System/Net/WebRequest.cs",
-        "src/src/System.Net.Requests/src/System/Net/WebResponse.cs"
+        "runtimes/win/lib/netstandard1.3/System.Net.Requests.dll"
       ]
     },
     "System.Net.Security/4.0.0": {
-      "sha512": "ZtgXvU7bKIv+oU3tgvDWHmnYNmnFZhClkywyGHosa6VP8znx4pHD9h37NPwny3qXA5SNtUrJ48JRleEuBVVaNw==",
+      "sha512": "uM1JaYJciCc2w7efD6du0EpQ1n5ZQqE6/P43/aI4H5E59qvP+wt3l70KIUF/Ha7NaeXGoGNFPVO0MB80pVHk2g==",
       "type": "package",
       "path": "System.Net.Security/4.0.0",
       "files": [
@@ -9837,144 +9027,11 @@
         "runtimes/unix/lib/netstandard1.6/System.Net.Security.dll",
         "runtimes/win/lib/net46/System.Net.Security.dll",
         "runtimes/win/lib/netstandard1.3/System.Net.Security.dll",
-        "runtimes/win7/lib/netcore50/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/Interop/Unix/Interop.Errors.cs",
-        "src/src/Common/src/Interop/Unix/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Unix/System.Net.Security.Native/Interop.GssApiException.cs",
-        "src/src/Common/src/Interop/Unix/System.Net.Security.Native/Interop.GssBuffer.cs",
-        "src/src/Common/src/Interop/Unix/System.Net.Security.Native/Interop.Initialization.cs",
-        "src/src/Common/src/Interop/Unix/System.Net.Security.Native/Interop.NetSecurityNative.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.ASN1.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.BIO.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.Crypto.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.ERR.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.Initialization.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.OpenSsl.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.SetProtocolOptions.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.Ssl.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.SslCtx.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.SslCtxOptions.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.X509.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.X509ChannelBindingHash.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.X509Ext.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.X509Name.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.X509Stack.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/Interop.X509StoreCtx.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/SslConnectionInfo.cs",
-        "src/src/Common/src/Interop/Unix/System.Security.Cryptography.Native/StreamSizes.cs",
-        "src/src/Common/src/Interop/Windows/Crypt32/Interop.CertEnumCertificatesInStore.cs",
-        "src/src/Common/src/Interop/Windows/Crypt32/Interop.certificates.cs",
-        "src/src/Common/src/Interop/Windows/Crypt32/Interop.certificates_types.cs",
-        "src/src/Common/src/Interop/Windows/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Windows/SChannel/Interop.SchProtocols.cs",
-        "src/src/Common/src/Interop/Windows/SChannel/Interop.SecurityStatus.cs",
-        "src/src/Common/src/Interop/Windows/SChannel/SslConnectionInfo.cs",
-        "src/src/Common/src/Interop/Windows/SChannel/UnmanagedCertificateContext.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CloseHandle.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Bindings.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/GlobalSSPI.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.SSPI.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/NegotiationInfo.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/NegotiationInfoClass.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/SSPIAuthType.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/SSPIInterface.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/SSPISecureChannelType.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/SSPIWrapper.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/SecSizes.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/SecurityPackageInfo.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/SecurityPackageInfoClass.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/SecuritySafeHandles.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/StreamSizes.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/Asn1SafeHandles.Unix.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/CriticalHandleMinusOneIsInvalid.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/CriticalHandleZeroOrMinusOneIsInvalid.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/GssSafeHandles.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/SafeBioHandle.Unix.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/SafeHandleZeroOrMinusOneIsInvalid.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/SafeInteriorHandle.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/SafeX509Handles.Unix.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/SafeX509NameHandle.Unix.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/X509ExtensionSafeHandles.Unix.cs",
-        "src/src/Common/src/System/Collections/Generic/BidirectionalDictionary.cs",
-        "src/src/Common/src/System/IO/Error.cs",
-        "src/src/Common/src/System/IO/StreamApmExtensions.cs",
-        "src/src/Common/src/System/Net/ContextAwareResult.Unix.cs",
-        "src/src/Common/src/System/Net/ContextAwareResult.Windows.cs",
-        "src/src/Common/src/System/Net/ContextAwareResult.cs",
-        "src/src/Common/src/System/Net/DebugCriticalHandleMinusOneIsInvalid.cs",
-        "src/src/Common/src/System/Net/DebugCriticalHandleZeroOrMinusOneIsInvalid.cs",
-        "src/src/Common/src/System/Net/DebugSafeHandle.cs",
-        "src/src/Common/src/System/Net/ExceptionCheck.cs",
-        "src/src/Common/src/System/Net/IntPtrHelper.cs",
-        "src/src/Common/src/System/Net/InternalException.cs",
-        "src/src/Common/src/System/Net/LazyAsyncResult.cs",
-        "src/src/Common/src/System/Net/Logging/EventSourceLogging.cs",
-        "src/src/Common/src/System/Net/Logging/GlobalLog.cs",
-        "src/src/Common/src/System/Net/Logging/LoggingHash.cs",
-        "src/src/Common/src/System/Net/Logging/NetEventSource.cs",
-        "src/src/Common/src/System/Net/Logging/SecurityEventSource.Windows.cs",
-        "src/src/Common/src/System/Net/Logging/SecurityEventSource.cs",
-        "src/src/Common/src/System/Net/Security/CertificateValidation.Unix.cs",
-        "src/src/Common/src/System/Net/Security/Unix/SafeDeleteContext.cs",
-        "src/src/Common/src/System/Net/Security/Unix/SafeDeleteNegoContext.cs",
-        "src/src/Common/src/System/Net/Security/Unix/SafeDeleteSslContext.cs",
-        "src/src/Common/src/System/Net/Security/Unix/SafeFreeCertContext.cs",
-        "src/src/Common/src/System/Net/Security/Unix/SafeFreeContextBufferChannelBinding.cs",
-        "src/src/Common/src/System/Net/Security/Unix/SafeFreeCredentials.cs",
-        "src/src/Common/src/System/Net/Security/Unix/SafeFreeNegoCredentials.cs",
-        "src/src/Common/src/System/Net/Security/Unix/SafeFreeSslCredentials.cs",
-        "src/src/Common/src/System/Net/SecurityProtocol.cs",
-        "src/src/Common/src/System/Net/Shims/DBNull.cs",
-        "src/src/Common/src/System/Net/Shims/TraceSource.cs",
-        "src/src/Common/src/System/Net/UriScheme.cs",
-        "src/src/Common/src/System/NotImplemented.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/Common/src/System/Threading/Tasks/TaskToApm.cs",
-        "src/src/System.Net.Security/ref/System.Net.Security.Manual.cs",
-        "src/src/System.Net.Security/ref/System.Net.Security.cs",
-        "src/src/System.Net.Security/src/System/Net/CertificateValidationPal.Unix.cs",
-        "src/src/System.Net.Security/src/System/Net/CertificateValidationPal.Windows.cs",
-        "src/src/System.Net.Security/src/System/Net/ContextFlagsAdapterPal.Unix.cs",
-        "src/src/System.Net.Security/src/System/Net/ContextFlagsAdapterPal.Windows.cs",
-        "src/src/System.Net.Security/src/System/Net/ContextFlagsPal.cs",
-        "src/src/System.Net.Security/src/System/Net/NTAuthentication.cs",
-        "src/src/System.Net.Security/src/System/Net/NegotiateStreamPal.Unix.cs",
-        "src/src/System.Net.Security/src/System/Net/NegotiateStreamPal.Windows.cs",
-        "src/src/System.Net.Security/src/System/Net/NegotiationInfoClass.cs",
-        "src/src/System.Net.Security/src/System/Net/SSPIHandleCache.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureChannel.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/AuthenticatedStream.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/AuthenticationException.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/BufferAsyncResult.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/FixedSizeReader.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/HelperAsyncResults.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/InternalNegotiateStream.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/NegoState.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/NegotiateStream.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/ProtectionLevel.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/SslState.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/SslStream.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/SslStreamContext.cs",
-        "src/src/System.Net.Security/src/System/Net/SecureProtocols/SslStreamInternal.cs",
-        "src/src/System.Net.Security/src/System/Net/SecurityBuffer.cs",
-        "src/src/System.Net.Security/src/System/Net/SecurityBufferType.cs",
-        "src/src/System.Net.Security/src/System/Net/SecurityContextTokenHandle.cs",
-        "src/src/System.Net.Security/src/System/Net/SecurityStatusAdapterPal.Windows.cs",
-        "src/src/System.Net.Security/src/System/Net/SecurityStatusPal.cs",
-        "src/src/System.Net.Security/src/System/Net/SslSessionsCache.cs",
-        "src/src/System.Net.Security/src/System/Net/SslStreamPal.Unix.cs",
-        "src/src/System.Net.Security/src/System/Net/SslStreamPal.Windows.cs",
-        "src/src/System.Net.Security/src/System/Net/StreamFramer.cs",
-        "src/src/System.Net.Security/src/System/PinnableBufferCache.cs",
-        "src/src/System.Net.Security/src/System/Security/Authentication/ExtendedProtection/ExtendedProtectionPolicy.cs",
-        "src/src/System.Net.Security/src/System/Security/Authentication/ExtendedProtection/PolicyEnforcement.cs",
-        "src/src/System.Net.Security/src/System/Security/Authentication/ExtendedProtection/ProtectionScenario.cs",
-        "src/src/System.Net.Security/src/System/Security/Authentication/ExtendedProtection/ServiceNameCollection.cs"
+        "runtimes/win7/lib/netcore50/_._"
       ]
     },
     "System.Net.Sockets/4.3.0": {
-      "sha512": "RIll5Az27P7akTU+qI19Wh4jOeYfNa7j9c4jXuOHPZDzmoxhNSVQPI32sjqxbpwjrfXTtfzz9Gyija3DhwRXzw==",
+      "sha512": "HxenwUTVYKfuOgK0+JSEgdz6k/pv2Zy4cCs80SkHVsz/LMWumEPytmPj4dR62EH/81dtxLfsGT3LWpodsQZTiQ==",
       "type": "package",
       "path": "System.Net.Sockets/4.3.0",
       "files": [
@@ -10010,7 +9067,7 @@
       ]
     },
     "System.Net.WebHeaderCollection/4.0.1": {
-      "sha512": "FH146tJazk2WbmtN7BZ4WdgQSYF66Yfa2RoXXap6XthQcVbCdfUtmaJoNgedY/65uRLfw7XYVLDD/n9lo2ialg==",
+      "sha512": "XX2TIAN+wBSAIV51BU2FvvXMdstUa8b0FBSZmDWjZdwUMmggQSifpTOZ5fNH20z9ZCg2fkV1L5SsZnpO2RQDRQ==",
       "type": "package",
       "path": "System.Net.WebHeaderCollection/4.0.1",
       "files": [
@@ -10043,16 +9100,7 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/Net/HttpValidationHelpers.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/Common/src/System/StringExtensions.cs",
-        "src/src/System.Net.WebHeaderCollection/ref/System.Net.WebHeaderCollection.Manual.cs",
-        "src/src/System.Net.WebHeaderCollection/ref/System.Net.WebHeaderCollection.cs",
-        "src/src/System.Net.WebHeaderCollection/src/System/Net/HttpRequestHeader.cs",
-        "src/src/System.Net.WebHeaderCollection/src/System/Net/HttpResponseHeader.cs",
-        "src/src/System.Net.WebHeaderCollection/src/System/Net/WebHeaderCollection.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "System.Net.WebSockets/4.3.0": {
@@ -10093,7 +9141,7 @@
       ]
     },
     "System.Numerics.Vectors/4.3.0": {
-      "sha512": "nFLeNWVa2UNS7AJ831BkwiRLMTkHfDFmFLmy/86ujkzn1GxPuCQrDzYpG6lN6+3ogoynB9LEfGb2H08tEDVAIA==",
+      "sha512": "ia5TGUlq2hJvt9WAJM1jxqSe8TrcOxqzlQ7O3qYLysyAgzuOaGOOtPYWEscdcsOf9SGwNHzpJM2iJir1735BKg==",
       "type": "package",
       "path": "System.Numerics.Vectors/4.3.0",
       "files": [
@@ -10126,7 +9174,7 @@
       ]
     },
     "System.ObjectModel/4.3.0": {
-      "sha512": "JPsUwAWuUA1vGOjPMDsl3WG9Vk2G8O8vUw0evzdjO0ZFs3muOMrhAcxBz0sg9zHj5rl3L87wTfZtYxOdUJMSWw==",
+      "sha512": "x+RjxaK4In+0Hkw3VJtxjLJJx/GcVOJ6/pWc6R4idV6pbfewrosAM9yEQSkUiWGquyA9gkEy9BeuljhrPk5vwQ==",
       "type": "package",
       "path": "System.ObjectModel/4.3.0",
       "files": [
@@ -10206,7 +9254,7 @@
       ]
     },
     "System.Reflection/4.3.0": {
-      "sha512": "v01wMY0628IFwnasbhgvFd1Pu36gAhElENr7fbzFHnTi0YbVBnOe2bEw7Th74lya4dgmUhZ8fE51JxVYCGewBQ==",
+      "sha512": "b+MdtbuXRdLHPNmkDisyriaOhuSJRl8ujSYclbYOymw3ZlKzjm+1ow2fphfOEvSwJk2J9UkBcVtwPW6p7ZURyw==",
       "type": "package",
       "path": "System.Reflection/4.3.0",
       "files": [
@@ -10285,7 +9333,7 @@
       ]
     },
     "System.Reflection.DispatchProxy/4.0.1": {
-      "sha512": "OpGiO/+NEGhmVTLszUQL65flXyXtLSYxCWzw7uWHuoyWOYgbRjhuxkb5q57eksw8dQ3erKECxQqnDZ96nVetGQ==",
+      "sha512": "GPPgWoSxQEU3aCKSOvsAc1dhTTi4iq92PUVEVfnGPGwqCf6synaAJGYLKMs5E3CuRfel8ufACWUijXqDpOlGrA==",
       "type": "package",
       "path": "System.Reflection.DispatchProxy/4.0.1",
       "files": [
@@ -10317,16 +9365,11 @@
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._",
-        "runtimes/aot/lib/netcore50/System.Reflection.DispatchProxy.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Reflection.DispatchProxy/ref/System.Reflection.DispatchProxy.cs",
-        "src/src/System.Reflection.DispatchProxy/src/System/Reflection/DispatchProxy.cs",
-        "src/src/System.Reflection.DispatchProxy/src/System/Reflection/DispatchProxyGenerator.cs"
+        "runtimes/aot/lib/netcore50/System.Reflection.DispatchProxy.dll"
       ]
     },
     "System.Reflection.Emit/4.3.0": {
-      "sha512": "TInlwBzE8fe4IaVMer9BSffWk/5IsvxX3vfKYxFBwlWzkxn5cBcwATkQs3GFZo8jEj370UmJx91H6ecoLlo8WQ==",
+      "sha512": "JThdParAym4P9pXDaJfYAOa3VaDNIoAjchdfySz7is6V78mUVLKPjX2lLKSRa/c5cGdUddBSMk7rap7+pEUk9Q==",
       "type": "package",
       "path": "System.Reflection.Emit/4.3.0",
       "files": [
@@ -10360,7 +9403,7 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.3.0": {
-      "sha512": "vsvvHWTwQwimhxcf1V0M1MP6jxlvHogd3wqe8Affh5huHouf1Q2yEe1821kSwS5Dxg5EEQYn/5pvEHQexrRprQ==",
+      "sha512": "mMJ4vl9qNPFT0Gc63yqTIcJH0gQLTtfxvhS6xG55tdplv7j1pCkF3iwgcgwAkiQxqz4lCu1zFQYataYLV1OB9w==",
       "type": "package",
       "path": "System.Reflection.Emit.ILGeneration/4.3.0",
       "files": [
@@ -10403,7 +9446,7 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.3.0": {
-      "sha512": "nfTTh4Lwk61lADtrlf14N1jFf5ldxkJRIOyz+uhktMhuQLob+JbTY1Lk9qqK7uPNO9Ix5Z40r7d3p9IJVSMUow==",
+      "sha512": "NWrNSiSrrecvt0ai4GTRPOrGdZcIxxN1E8Jt/hSKkXJBdYRO8r+ib6BUhs3jfOvUUGFI6zKyvTK4grBHNO2VZQ==",
       "type": "package",
       "path": "System.Reflection.Emit.Lightweight/4.3.0",
       "files": [
@@ -10446,7 +9489,7 @@
       ]
     },
     "System.Reflection.Extensions/4.3.0": {
-      "sha512": "bSXFnFu6hc+PpPuRPsgczUCof4XjLV0CYNQFgiVDOh/EUluD5f5yDJCguiORQOsiioak6Hv9yUcpVNE9Xjc4kw==",
+      "sha512": "Cvce3yqFdvzMuOHObBxB727o9RLAHnFF7684XaUCJBDNYE4cnEndps3SuFpfu2D2stpKju4Bp2mXR31MKJ/klQ==",
       "type": "package",
       "path": "System.Reflection.Extensions/4.3.0",
       "files": [
@@ -10501,7 +9544,7 @@
       ]
     },
     "System.Reflection.Metadata/1.4.1": {
-      "sha512": "gaDdoJW4j/+3WzACvrY3kqwP9GSTI2O86r7Wlkb94U7BMQ6wre4jxvXZ+79IPBYz7R+L9gs3cUplgJO3CqUXcg==",
+      "sha512": "9wdNO/Kkoygkh+Ywpki3syjnxIvV+HYankmC4HAZTcuL6SdBbFw8iUwcZxEl/GWoPxaXe7WllfJ5Ls+nOtJW3g==",
       "type": "package",
       "path": "System.Reflection.Metadata/1.4.1",
       "files": [
@@ -10516,7 +9559,7 @@
       ]
     },
     "System.Reflection.Primitives/4.3.0": {
-      "sha512": "GfCORDkz/MwERn7MPOWMGv48sFfAbVFBT0394HdUk+jpy4kl8nNWqqu3zcDVi/MCRsOp2ahqfqoZJMMP+55ExA==",
+      "sha512": "BDW6SytXgty2OPTnzIQT7VMWWW/nNfhQQN777wrX3ASMp0BdiglyVi9Bqmlf57wDoFyKJmyo6rzmUIu4csO5SQ==",
       "type": "package",
       "path": "System.Reflection.Primitives/4.3.0",
       "files": [
@@ -10571,7 +9614,7 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.3.0": {
-      "sha512": "xP84aoCpIHy+2RvHJuaK+5pt4vqNDiyVSP3Pv5XG+Z5wRWNl9v0EkI5RWTgBt1S1O/VP2X9arFiRUajfjR86eQ==",
+      "sha512": "n5xGbizWUVXdwhymK/vadJbFPXmeoDUuu76gD1YGNg+DnV3YTjwifK79z50hW6dPfDOdjazepmlxAYDuu4qAsg==",
       "type": "package",
       "path": "System.Reflection.TypeExtensions/4.3.0",
       "files": [
@@ -10623,7 +9666,7 @@
       ]
     },
     "System.Resources.Reader/4.0.0": {
-      "sha512": "GygZ/NnFKPFMlAYCFY7+pN7z1offI8RA26LsR6/tydpXTLPNXFX/BvP1zGE1383k5cPE4UY37GvhSs4zE9zrxw==",
+      "sha512": "VX1iHAoHxgrLZv+nq/9drCZI6Q4SSCzSVyUm1e0U60sqWdj6XhY7wvKmy3RvsSal9h+/vqSWwxxJsm0J4vn/jA==",
       "type": "package",
       "path": "System.Resources.Reader/4.0.0",
       "files": [
@@ -10631,15 +9674,11 @@
         "System.Resources.Reader.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
-        "lib/netstandard1.0/System.Resources.Reader.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Resources.Reader/src/System/Resources/ResourceReader.cs",
-        "src/src/System.Resources.Reader/src/System/Resources/StreamExtensions.cs"
+        "lib/netstandard1.0/System.Resources.Reader.dll"
       ]
     },
     "System.Resources.ResourceManager/4.3.0": {
-      "sha512": "fyua83ssEj6WZPQT83mauuuLQfZdMNAxBeGNL431l553GFIXkVhfBSn0EffDXqcDjSbjw9LvbZuvA4IN7IFOWQ==",
+      "sha512": "5V1p4gwbhdAkY0vP2GUQPtH2ZGTopkQEyW6B7YDR7gOCsFUdRYRQD1VGWjES7PshqS5dNbWutpbqIN/UhCFhjg==",
       "type": "package",
       "path": "System.Resources.ResourceManager/4.3.0",
       "files": [
@@ -10694,7 +9733,7 @@
       ]
     },
     "System.Runtime/4.3.0": {
-      "sha512": "KNAamHtmI3ljnS0I8qN0af41SuOIcNVZl2l0a1vfZ87UlW0OkBH1NH68vpUlhARHjyKrt+Ey7kdkNiLu5P1dZQ==",
+      "sha512": "0dVVhXzxJNiHQk9nHQwWk2T0L16rkpEGby+GFV2dXKOmY2f+RmricRNksLWKF5EYKAtowev4w6VN5c/NIzAetg==",
       "type": "package",
       "path": "System.Runtime/4.3.0",
       "files": [
@@ -10797,7 +9836,7 @@
       ]
     },
     "System.Runtime.Extensions/4.3.0": {
-      "sha512": "rq3Qlb/qxhBjCN+tzbAR3ow0oANZAnRBhSnf/n21VK2wuYVz4ZdxsW5S1j6IV/QVSFuHsna7nn+9kkYwEbv21Q==",
+      "sha512": "jAuLRyZtLC1cJx/LicTaVWgQbkAUwftA/j+OvIHuLHk4m86JYnpXns9b8qJs+e8EzTRuAehi/tvg/pi9n6jXug==",
       "type": "package",
       "path": "System.Runtime.Extensions/4.3.0",
       "files": [
@@ -10876,7 +9915,7 @@
       ]
     },
     "System.Runtime.Handles/4.3.0": {
-      "sha512": "DE4lRpA3vXpQzMhjhg68ttGIUcUuQ+ImPgP2gIsI8xGmBypICo/4zyK2rDQL4m8rJQMm6CufoaiU4MVq1vHreg==",
+      "sha512": "VwjBP6WqQO4+O+b+p/e7og7caStnbG9VEZxFF3ePkZzaXXpk2jRkit9nSy8l4AMg4cLGHJMR6fo5/lFaDttztA==",
       "type": "package",
       "path": "System.Runtime.Handles/4.3.0",
       "files": [
@@ -10912,7 +9951,7 @@
       ]
     },
     "System.Runtime.InteropServices/4.3.0": {
-      "sha512": "AlhDHm7BDGYapOAzNDFFz+PUBB4bYexqgj2b79FDRhA4mYzw0A8j6C9x9hNhXb6wJwW3xOgc3Kcd0n/Q8hrvWA==",
+      "sha512": "nnHO5N4K96p7rIbpqIf3xnTP2iokS7svD6gFn7nlS4Ta8reEK3gMYVNyYbpXZjA3YTMgDQCmb3VerDOBibEN0g==",
       "type": "package",
       "path": "System.Runtime.InteropServices/4.3.0",
       "files": [
@@ -11003,7 +10042,7 @@
       ]
     },
     "System.Runtime.InteropServices.RuntimeInformation/4.3.0": {
-      "sha512": "58fM5yUmb8yvGnPMd+rdgI6M1ryTgDks4dWZ4Avoj4z+RNEWW+TGF+QmJ7jbwyV974wCfNV/icLrHCw3fqNHWA==",
+      "sha512": "HkbTv2v8LAMZ6p+7O4lPCWz9gxwb2tc+IxHrifz11ApFDChdvRNQKtYZLyzj4+tyEnAT0OwHVDK6KpK09jK5og==",
       "type": "package",
       "path": "System.Runtime.InteropServices.RuntimeInformation/4.3.0",
       "files": [
@@ -11036,7 +10075,7 @@
       ]
     },
     "System.Runtime.Loader/4.3.0": {
-      "sha512": "rLNOgrjlJ+/Rp13ql0uXkwZdUpjtzEWhCqtBqa+e4O4otrMc744zZvdb/QYEDhEeITpf9ixIDNUTfZBs8NAbbg==",
+      "sha512": "417soPzh3JhFFadeDJA0hAS7pJOA/HAM5/ByTu4OGFMLFqglFZ4P/NJNGy/MN62TfsrpW6XpRHpQjKX1GIuhlw==",
       "type": "package",
       "path": "System.Runtime.Loader/4.3.0",
       "files": [
@@ -11066,7 +10105,7 @@
       ]
     },
     "System.Runtime.Numerics/4.3.0": {
-      "sha512": "OECyh8nVVF46li3ybiW15uHYqaAPgYywx1l7ldaqfUNvyVX6bNaAu2U7P4NEZEaDLvHoOj6xFRcQIL04V6WFaA==",
+      "sha512": "Xzzi2WYW8t9tzr0X909WBNdFZ1VJMktSgqQS4Gq7zsKieSYvKH7S3xeAWRbnvUvHf/76Cwc0uEdRoBBMLUsUvQ==",
       "type": "package",
       "path": "System.Runtime.Numerics/4.3.0",
       "files": [
@@ -11121,7 +10160,7 @@
       ]
     },
     "System.Security.Claims/4.3.0": {
-      "sha512": "X6U22V4EOggZWnLjGSCTi+/9vyNylPgjPfWsBgC2Jv/d98wp6ekz4sAnK+kTgCi3HXcqGOFUMEGWoI6D7M3bOg==",
+      "sha512": "4e7D4rOB1pydnEhBNcU8ExAYUuPnrohz00n12c9oeavFEKA24k477QqOcIQgz4OVXquyPz/2QxqvUVbok4+57Q==",
       "type": "package",
       "path": "System.Security.Claims/4.3.0",
       "files": [
@@ -11158,7 +10197,7 @@
       ]
     },
     "System.Security.Cryptography.Algorithms/4.3.0": {
-      "sha512": "02IzwTiz5nXfyzbT7s25tijJr/0QSUv2o22vSNp8JT28X3qtyGqD2bEoHtbnRiOfgo2Gra28+UdJ9oCGKLB2pw==",
+      "sha512": "l+UyAYg8nzrUJ0SPtP2RKHcV1X7k1Ezc3PI9/ZXP2G6m1Upz1kQCIM6Viw80ExHPjov1nIR0WnlpU8T7hUBagQ==",
       "type": "package",
       "path": "System.Security.Cryptography.Algorithms/4.3.0",
       "files": [
@@ -11197,7 +10236,7 @@
       ]
     },
     "System.Security.Cryptography.Cng/4.3.0": {
-      "sha512": "L9hxbyegkFFQ54H526LvdeM5sKGfKeOBQcAUXARHRLE33waBKPDLHO2+b6DRN2WLitEWdtS12tHXQphynV7FsA==",
+      "sha512": "Q8YFNcUyBv/eHTr4R5z1WKLTjOMYQLOwr9YmGRJxs1ua4lkoRMFMf72nZ1sxoWdETkzXf7PeNe8CxhTMoeBITg==",
       "type": "package",
       "path": "System.Security.Cryptography.Cng/4.3.0",
       "files": [
@@ -11223,7 +10262,7 @@
       ]
     },
     "System.Security.Cryptography.Csp/4.3.0": {
-      "sha512": "JsnHwdmQlDOdD+2YoHaxNwa8zqOUwVGXxeMnNR2WLoC/PDn5/qs0ccuHl5uRPL29XRjAZ8R3rPSIcR/HA67ZxA==",
+      "sha512": "AGiddKnHddswUBXxiwqWaNaoYnwtKuvmMSRhnDWvIAzlRDxUifiIq4rjaAdzTlH6b4+SE4tKP7CorTMBNzNCUg==",
       "type": "package",
       "path": "System.Security.Cryptography.Csp/4.3.0",
       "files": [
@@ -11253,7 +10292,7 @@
       ]
     },
     "System.Security.Cryptography.Encoding/4.3.0": {
-      "sha512": "v9etDBPBlHsajGk7HG6l2TPJEnBxtgsXf/45JW3jubFo4AzWsRFq9XRpBnY/K38eZgknt/lRJRiI3dQIDwbYnA==",
+      "sha512": "z1+5q4Zz06ueaNCfqpzNJpbhJp6a891r8jTs68iE3fOqCPIDMLBHgDOe5yK4jXR0SHChp/MsDERFVXDwR7UZtQ==",
       "type": "package",
       "path": "System.Security.Cryptography.Encoding/4.3.0",
       "files": [
@@ -11292,7 +10331,7 @@
       ]
     },
     "System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "S+SAZPiH68wMAdN5kO/k/X9DG1o7a545ZfXqd+NCbNLhxnxJrXfijDwY6XiGUGH7L7q9WNddnQiNmC/8gV+i0A==",
+      "sha512": "qBiTM422/OHkMsFrKcTRLMTKM9cXPmaVl2R2h+FvrBuOWKqkYNboB9H87iv6++B5pbv+Vm/RgHHw+Vq2d0Vr3g==",
       "type": "package",
       "path": "System.Security.Cryptography.OpenSsl/4.3.0",
       "files": [
@@ -11306,7 +10345,7 @@
       ]
     },
     "System.Security.Cryptography.Primitives/4.3.0": {
-      "sha512": "Ex0o2DWhcW2LnNWAjDccEmJ2AErDT1AyFwf7ui0TfN1nIUru2zaero7VG8OTOUzl84NnaF0pSKrjIhTNSGzEEw==",
+      "sha512": "cDCpnYCV4YZ+5eeKbtSLlpu3FkOMYZubo7I16IOGCL3o6GhNr9GYdNG6PDAtplFC/qQX8Jg1e8QG02Ib5qxp0A==",
       "type": "package",
       "path": "System.Security.Cryptography.Primitives/4.3.0",
       "files": [
@@ -11333,7 +10372,7 @@
       ]
     },
     "System.Security.Cryptography.X509Certificates/4.3.0": {
-      "sha512": "yv0XutUbtKCG6p2V6EGWT7UdCt4KcLKtmm6Hc8kvPIezPnJ4uu9eT3GF7Iii3XEwstJ7yxrkX8Vr45sqrfqUgQ==",
+      "sha512": "nbg4Jkkhs/Q/dnGxQpzvUJWYEvUJpC4AQOLy8oFKrufZBEN9TazlpZoesbk6quKk8ytm/UVxvRtr7GHF89jEKw==",
       "type": "package",
       "path": "System.Security.Cryptography.X509Certificates/4.3.0",
       "files": [
@@ -11387,7 +10426,7 @@
       ]
     },
     "System.Security.Principal/4.3.0": {
-      "sha512": "UbJCoSIYqmT7CDy8mY68oRCySDmpLPOXj7Q5rLTMfg7T9twdnVrdvFQOMMvXbt1GdRjE3gQZfsXcO7IzY9PXjg==",
+      "sha512": "m4fuSmXCfgPTRqLv1eQ3TKWTmIt9xCWmoON4UH24wN3Fd9fK6jGEr5H1/CPLrKtTie1+T15CHQtuAZRaePAGQw==",
       "type": "package",
       "path": "System.Security.Principal/4.3.0",
       "files": [
@@ -11444,7 +10483,7 @@
       ]
     },
     "System.Security.Principal.Windows/4.0.0": {
-      "sha512": "rvF61cA2HYxnrpA4ZM72gn8+l3H1o5LwPavcc89Erxzl1TjliFQkH4+XEkccCRAqnSUfZdsQDxyK/6SerI8cvw==",
+      "sha512": "iFx15AF3RMEPZn3COh8+Bb2Thv2zsmLd93RchS1b8Mj5SNYeGqbYNCSn5AES1+gq56p4ujGZPrl0xN7ngkXOHg==",
       "type": "package",
       "path": "System.Security.Principal.Windows/4.0.0",
       "files": [
@@ -11467,76 +10506,11 @@
         "ref/netstandard1.3/zh-hant/System.Security.Principal.Windows.xml",
         "runtimes/unix/lib/netstandard1.3/System.Security.Principal.Windows.dll",
         "runtimes/win/lib/net46/System.Security.Principal.Windows.dll",
-        "runtimes/win/lib/netstandard1.3/System.Security.Principal.Windows.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/Interop/Windows/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Windows/NtDll/Interop.NtStatus.cs",
-        "src/src/Common/src/Interop/Windows/SecurityBase/Interop.AllocateLocallyUniqueId.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CheckTokenMembership.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CloseHandle.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.ConvertStringSidToSid.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.CreateWellKnownSid.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.DuplicateHandle.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.DuplicateTokenEx.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.Errors.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetCurrentProcess_IntPtr.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetCurrentThread.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetTokenInformation.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetWindowsAccountDomainSid.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.ImpersonateLoggedOnUser.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.IsEqualDomainSid.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.IsWellKnownSid.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.LsaClose.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.LsaFreeMemory.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.LsaFreeReturnBuffer.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.LsaGetLogonSessionData.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.LsaLookupNames2.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.LsaLookupSids.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.LsaOpenPolicy.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.OpenProcessToken_SafeAccessTokenHandle.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.OpenThreadToken.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RevertToSelf.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.RtlNtStatusToDosError.cs",
-        "src/src/Common/src/Interop/Windows/mincore_obsolete/Interop.LocalAlloc.Constants.cs",
-        "src/src/Common/src/Interop/Windows/mincore_obsolete/Interop.LocalAlloc.cs",
-        "src/src/Common/src/Interop/Windows/mincore_obsolete/Interop.LocalFree.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.AuthenticationPackageNames.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.KerbLogonSubmitType.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.KerbS4uLogin.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.LSAStructs.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.LsaConnectUntrusted.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.LsaDeregisterLogonProcess.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.LsaLogonUser.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.LsaLookupAuthenticationPackage.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.LsaString.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.LsaUnicodeString.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.QuotaLimits.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.SECURITY_LOGON_SESSION_DATA.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.SecurityLogonType.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.TOKENS.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.TokenSource.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.UNICODE_STRING.cs",
-        "src/src/Common/src/Interop/Windows/sspicli/Interop.Winnt.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/SafeHandleZeroOrMinusOneIsInvalid.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/SafeLocalAllocHandle.cs",
-        "src/src/Common/src/Microsoft/Win32/SafeHandles/SafeLsaHandle.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Security.Principal.Windows/ref/System.Security.Principal.Windows.cs",
-        "src/src/System.Security.Principal.Windows/src/Microsoft/Win32/SafeHandles/SafeAccessTokenHandle.cs",
-        "src/src/System.Security.Principal.Windows/src/Microsoft/Win32/SafeHandles/SafeSecurityHandles.cs",
-        "src/src/System.Security.Principal.Windows/src/System/Security/Principal/IRCollection.cs",
-        "src/src/System.Security.Principal.Windows/src/System/Security/Principal/IdentityNotMappedException.cs",
-        "src/src/System.Security.Principal.Windows/src/System/Security/Principal/IdentityReference.cs",
-        "src/src/System.Security.Principal.Windows/src/System/Security/Principal/NTAccount.cs",
-        "src/src/System.Security.Principal.Windows/src/System/Security/Principal/SID.cs",
-        "src/src/System.Security.Principal.Windows/src/System/Security/Principal/TokenAccessLevels.cs",
-        "src/src/System.Security.Principal.Windows/src/System/Security/Principal/Win32.cs",
-        "src/src/System.Security.Principal.Windows/src/System/Security/Principal/WindowsIdentity.cs",
-        "src/src/System.Security.Principal.Windows/src/System/Security/Principal/WindowsPrincipal.cs"
+        "runtimes/win/lib/netstandard1.3/System.Security.Principal.Windows.dll"
       ]
     },
     "System.Security.Principal.Windows/4.3.0": {
-      "sha512": "YuKz4u7ziu/C/RO4REqH4MHpNxlSUCmqcBZrtP4VhwIHxx9M7fgZ3oqTEt7Nt+D34W5dNJZbAcLQreHwpJ30ow==",
+      "sha512": "tu350CydFiSWAUTKv59WxdHDQ5Z/91+NCLSGeHoAdy3PODRKXkuk3p6i3M08iKoYXhZNyjzZRafvQvR9nPi9mQ==",
       "type": "package",
       "path": "System.Security.Principal.Windows/4.3.0",
       "files": [
@@ -11563,7 +10537,7 @@
       ]
     },
     "System.Text.Encoding/4.3.0": {
-      "sha512": "SV65O9wPbL7zR3TDPspvJxhfEPTxq0uSaUOQnrowcmyq0J8ygfhyjxEzJN2PGFLMPNf+9NgnWDpsrXFDU0u0rw==",
+      "sha512": "6SJwHIx7LNiZaBo45DGZ+J5M+QhcL4Yo/cJ+ZWBp8h3O+kQs9XHEwDCTRKE4aIZQ9aal33dAchETWTVMXM5s1g==",
       "type": "package",
       "path": "System.Text.Encoding/4.3.0",
       "files": [
@@ -11629,7 +10603,7 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.0.1": {
-      "sha512": "eQerZZGuiV8SGzEEStxVXtZHlBd4q08Vvf12GzqOw4DELr8qLScM3rTi3m3gWlXHBb9JprYjNlb3OFfGdIVwlg==",
+      "sha512": "CzygZqGRKAqWWljDhnMzfrBbzeCzfrDgQPAI8QZmbn59NI/mH15RYHZsDKRiGPaHjcLtva0cc5eOpc0RY0hUdA==",
       "type": "package",
       "path": "System.Text.Encoding.CodePages/4.0.1",
       "files": [
@@ -11662,38 +10636,11 @@
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._",
         "runtimes/unix/lib/netstandard1.3/System.Text.Encoding.CodePages.dll",
-        "runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/Interop/Windows/Interop.Libraries.cs",
-        "src/src/Common/src/Interop/Windows/mincore/Interop.GetCPInfoEx.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Text.Encoding.CodePages/ref/System.Text.Encoding.CodePages.cs",
-        "src/src/System.Text.Encoding.CodePages/src/Microsoft/Win32/SafeHandles/SafeAllocHHandle.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/BaseCodePageEncoding.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/CodePagesEncodingProvider.Unix.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/CodePagesEncodingProvider.Windows.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/CodePagesEncodingProvider.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/DBCSCodePageEncoding.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/DecoderBestFitFallback.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/DecoderFallbackBufferHelper.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/DecoderNLS.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/EUCJPEncoding.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/EncoderBestFitFallback.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/EncoderFallbackBufferHelper.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/EncoderNLS.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/EncodingByteBuffer.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/EncodingCharBuffer.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/EncodingNLS.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/EncodingTable.Data.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/EncodingTable.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/GB18030Encoding.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/ISCIIEncoding.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/ISO2022Encoding.cs",
-        "src/src/System.Text.Encoding.CodePages/src/System/Text/SBCSCodePageEncoding.cs"
+        "runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll"
       ]
     },
     "System.Text.Encoding.Extensions/4.3.0": {
-      "sha512": "P1FAZlpwAOW/XJkHFY0V9mdLAfeHyGu4mVex3eBOrl3MAYWI0HAuyt/+z95hw06Mkzv73adx2L2UCYMmNdmirw==",
+      "sha512": "3M6upLRGejXHOmcF5++zGPHz+bO3P9pqYVjiH4rAszUXyPE8h/fUlqRCLpioBPRYyJuXx8XtgKXEiJCXWEWjaA==",
       "type": "package",
       "path": "System.Text.Encoding.Extensions/4.3.0",
       "files": [
@@ -11772,7 +10719,7 @@
       ]
     },
     "System.Text.RegularExpressions/4.3.0": {
-      "sha512": "pokRF845B8a8g6E+DebdB0yNRwBLBfezD62rQ0KAx967AEjUe/g8r2HyATHw7XWnE3Tu0dJaAb5Db6Mxl6FLuA==",
+      "sha512": "bPBNah70gWUltNDWbiIKi9cTRQr4uB8ptjPwar3Gdcw/oLyO233Ley/fhP2ILvch4MHANEVILAlbcFqIO5CHBg==",
       "type": "package",
       "path": "System.Text.RegularExpressions/4.3.0",
       "files": [
@@ -11854,7 +10801,7 @@
       ]
     },
     "System.Threading/4.3.0": {
-      "sha512": "4x0CKnLQ/g9roCv4vuAtXfKp2IIgdTgAEpFMSig20dyrrm3Lm/XIAyk91ybGFNbhLSmf24vinlUDePDBLj5/iQ==",
+      "sha512": "wYYmzTpbseQKsF0w/jU7SaAl1N3ug6xiFbt+M25lnNJ4FQ5PC1JkG9WFy1x4IgzdyxEks2hIG+0nMr8zeA+tPQ==",
       "type": "package",
       "path": "System.Threading/4.3.0",
       "files": [
@@ -11923,7 +10870,7 @@
       ]
     },
     "System.Threading.Overlapped/4.3.0": {
-      "sha512": "4riDyVnbeYZvnezvgLh0jZWRpJIEYfi4uqtCSVJ2oFDjik9RsKend7reKzkkxrjYghSPSlPRg+B/zTfriRmrqQ==",
+      "sha512": "KJ7LbFHzw/m/yeT5p9I9VZwHIlSIho5qOKhEpUCyCLjhPnRSsDaJcTe6krVQBSlKcNSYpUbyoOBkbZClnM1fvA==",
       "type": "package",
       "path": "System.Threading.Overlapped/4.3.0",
       "files": [
@@ -11951,7 +10898,7 @@
       ]
     },
     "System.Threading.Tasks/4.3.0": {
-      "sha512": "X4K8hbCqM8PEQ2yGxXG4UO5pN3X7yNzLSnLzmb8SM3P6dVVvfSLnvw397omwYjeUAk7mzuMLbZrMXbTDaA5cig==",
+      "sha512": "wBWvlRAWScSwFqSj1bfI+q6dgZU6/OvGZQp/Y5OMFwnAJ38a0z7bunCXKfKfqwjys272fjbcDOze7UB76xqU3A==",
       "type": "package",
       "path": "System.Threading.Tasks/4.3.0",
       "files": [
@@ -12017,7 +10964,7 @@
       ]
     },
     "System.Threading.Tasks.Dataflow/4.6.0": {
-      "sha512": "vGrhqkBd0qUeKrBJQ5RI/45zuJU4FPdDV/6xULoAvnp8ENhWmfoTTQJ8fJFMI7OWZQRwuuhpqcxYoDGkjr6f2A==",
+      "sha512": "2hRjGu2r2jxRZ55wmcHO/WbdX+YAOz9x6FE8xqkHZgPaoFMKQZRe9dk8xTZIas8fRjxRmzawnTEWIrhlM+Un7w==",
       "type": "package",
       "path": "System.Threading.Tasks.Dataflow/4.6.0",
       "files": [
@@ -12028,49 +10975,11 @@
         "lib/netstandard1.0/System.Threading.Tasks.Dataflow.XML",
         "lib/netstandard1.0/System.Threading.Tasks.Dataflow.dll",
         "lib/netstandard1.1/System.Threading.Tasks.Dataflow.XML",
-        "lib/netstandard1.1/System.Threading.Tasks.Dataflow.dll",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/DataflowBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/DataflowBlockOptions.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/DataflowLinkOptions.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/DataflowMessageHeader.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/DataflowMessageStatus.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/IDataflowBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/IPropagatorBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/IReceivableSourceBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/ISourceBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Base/ITargetBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Blocks/ActionBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Blocks/BatchBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Blocks/BatchedJoinBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Blocks/BroadcastBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Blocks/BufferBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Blocks/JoinBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Blocks/TransformBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Blocks/TransformManyBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Blocks/WriteOnceBlock.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/ActionOnDispose.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/Common.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/ConcurrentQueue.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/DataflowEtwProvider.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/EnumerableDebugView.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/IDebuggerDisplay.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/IProducerConsumerCollection.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/ImmutableArray.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/Padding.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/ProducerConsumerQueues.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/QueuedMap.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/ReorderingBuffer.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/SourceCore.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/SpscTargetCore.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/TargetCore.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/TargetRegistry.cs",
-        "src/src/System.Threading.Tasks.Dataflow/src/Internal/Threading.cs"
+        "lib/netstandard1.1/System.Threading.Tasks.Dataflow.dll"
       ]
     },
     "System.Threading.Tasks.Extensions/4.3.0": {
-      "sha512": "AU57In3+uso5iaXjYpsenTxfGtXpKcWHmPlUgVcZ+tZsxRG5kP2QArGBkwf6YDkUX8M2jR9GtS1NIgLo6Zl8iA==",
+      "sha512": "P4q71fac9axeufwkBaCjHZbCI3LyQ2zjU6jUPVND3ZP/MQwo4EQtab0X+62Vv1PWkVVyQqgAJe5NKLJ0DQCFEQ==",
       "type": "package",
       "path": "System.Threading.Tasks.Extensions/4.3.0",
       "files": [
@@ -12085,7 +10994,7 @@
       ]
     },
     "System.Threading.Tasks.Parallel/4.0.1": {
-      "sha512": "NzV5SEE3wC++v/nnKd98dM8XqQSoirskUds4zDkpWtdaf0rYBqZoH9OuB8teVxfY1fI3QOoIDdU0FnonHRgmGg==",
+      "sha512": "7Pc9t25bcynT9FpMvkUw4ZjYwUiGup/5cJFW72/5MgCG+np2cfVUMdh29u8d7onxX7d8PS3J+wL73zQRqkdrSA==",
       "type": "package",
       "path": "System.Threading.Tasks.Parallel/4.0.1",
       "files": [
@@ -12136,21 +11045,11 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Threading.Tasks.Parallel/ref/System.Threading.Tasks.Parallel.cs",
-        "src/src/System.Threading.Tasks.Parallel/src/System/Threading/PlatformHelper.cs",
-        "src/src/System.Threading.Tasks.Parallel/src/System/Threading/Tasks/Box.cs",
-        "src/src/System.Threading.Tasks.Parallel/src/System/Threading/Tasks/Parallel.cs",
-        "src/src/System.Threading.Tasks.Parallel/src/System/Threading/Tasks/ParallelETWProvider.cs",
-        "src/src/System.Threading.Tasks.Parallel/src/System/Threading/Tasks/ParallelLoopState.cs",
-        "src/src/System.Threading.Tasks.Parallel/src/System/Threading/Tasks/ParallelRangeManager.cs",
-        "src/src/System.Threading.Tasks.Parallel/src/System/Threading/Tasks/TaskReplicator.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "System.Threading.Thread/4.3.0": {
-      "sha512": "PKAuMwbP0iTE5GWHiC3o8HPfS/b3iW3Geu3Dmm2fonx0BLZkE5IFfRonfv+6Qa0LUJsKYudj5L1jqFRzXFdvEQ==",
+      "sha512": "GzdHjSfc798mYMDU40+gEhtFAsmdTNS5WYoTUL7W5Yl2xqEV+FNzoojmXjQ2nBGRHyAGUhQn82h+tVC+zieH3g==",
       "type": "package",
       "path": "System.Threading.Thread/4.3.0",
       "files": [
@@ -12188,7 +11087,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
-      "sha512": "UNLx45AXN/ECI8N36PZQXRr+BcRVgsYlyshELeNDSCwx4OWAW1KASmBl5ASAxskGGZ6ny9Dvdv41v5c7IC8LEQ==",
+      "sha512": "pcpqC3eyK17GK9PacS6NVC7YPlWbJT6GHOw9uWYnCnAJfUtzGnMFwpUFgH+riIvUR0X/sQyRIIJf1d5iCSZa6g==",
       "type": "package",
       "path": "System.Threading.ThreadPool/4.3.0",
       "files": [
@@ -12226,7 +11125,7 @@
       ]
     },
     "System.Threading.Timer/4.3.0": {
-      "sha512": "ghie7f+IzA9au/g3QX8opKjNXoEhUXSj/yvcFbKIpXIMRLpNvhxin0UMCJSIVfGC9PwaF8s7Hbe3DvzNnm42bw==",
+      "sha512": "94tQv9y22p0XkVSrWLVc4S4T7rfbsJiQXxg+sZSKLZXe0mOHPs1civXDZsKMTw8kbV7bBkBPk947UIIOwDbs0A==",
       "type": "package",
       "path": "System.Threading.Timer/4.3.0",
       "files": [
@@ -12279,7 +11178,7 @@
       ]
     },
     "System.Xml.ReaderWriter/4.3.0": {
-      "sha512": "mDoldhZJL/3ygxCxf3sv4l9NUk6Sqjk0gbQCXHEvT6TCUfo/vu3iRMHgY0d+jI0+PW2hPvd9KXmkTXFp2bT73w==",
+      "sha512": "zAk1/pSo6adEBKnM0Ox/u3hd4QaISsfCJvgqe36M2dO47oWY7/+1Ww9+UMtbXlQDjy5sOkeERnyEp12NMe+UtA==",
       "type": "package",
       "path": "System.Xml.ReaderWriter/4.3.0",
       "files": [
@@ -12349,7 +11248,7 @@
       ]
     },
     "System.Xml.XDocument/4.3.0": {
-      "sha512": "hvPY4SPT5ZQO21I/SdkwJRYm02gKfD6h2o4tWMdZQZSHuvAUeW8YUc9YPW28tjJUTKZgxEutmrlh62haVOMPMQ==",
+      "sha512": "PsodKv5RbyfKVMFDCJ8SS1YLtNxGJYee+DH1DO9DxJqBVKpxpCe1JMrqEvp45kOZTctXYlVuFH0Jm6WQU0H7+A==",
       "type": "package",
       "path": "System.Xml.XDocument/4.3.0",
       "files": [
@@ -12417,7 +11316,7 @@
       ]
     },
     "System.Xml.XmlDocument/4.0.1": {
-      "sha512": "qzAU1ApcQ8/3IavztBrhetdjTziC9QuLsRN5KHqatbTsyFvzH8QHv7pJFwPcTyRlz7e9TYC50ATU0lyCGsAlEw==",
+      "sha512": "d5KRl1vxgU3V39BnSE4JsL/bcvjy2KcLQmAoUCnWjUtIpBC5qvdMAPBMxBoNqwwXHprrC+5XYvDg5TfsvIr8Aw==",
       "type": "package",
       "path": "System.Xml.XmlDocument/4.0.1",
       "files": [
@@ -12450,63 +11349,11 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/IO/StringBuilderCache.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/Common/src/System/Xml/Base64Encoder.cs",
-        "src/src/Common/src/System/Xml/BinHexEncoder.cs",
-        "src/src/Common/src/System/Xml/ExceptionType.cs",
-        "src/src/Common/src/System/Xml/Ref.cs",
-        "src/src/Common/src/System/Xml/SecureStringHasher.cs",
-        "src/src/Common/src/System/Xml/ValidateNames.cs",
-        "src/src/Common/src/System/Xml/XmlCharType.cs",
-        "src/src/Common/src/System/Xml/XmlConst.cs",
-        "src/src/Common/src/System/Xml/XmlConvertEx.cs",
-        "src/src/Common/src/System/Xml/XmlNameHelper.cs",
-        "src/src/Common/src/System/Xml/XmlParsingHelper.cs",
-        "src/src/Common/src/System/Xml/XmlTextWriter.cs",
-        "src/src/Common/src/System/Xml/XmlTextWriterBase64Encoder.cs",
-        "src/src/System.Xml.XmlDocument/ref/System.Xml.XmlDocument.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/DomNameTable.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlAttribute.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlAttributeCollection.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlCDATASection.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlCharacterData.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlChildEnumerator.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlChildNodes.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlComment.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlDeclaration.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlDocument.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlDocumentFragment.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlDocumentType.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlDomTextWriter.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlElement.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlElementList.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlEntity.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlEntityReference.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlEventChangedAction.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlImplementation.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlLinkedNode.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlLoader.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlName.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlNamedNodeMap.SmallXmlNodeList.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlNamedNodeMap.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlNode.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlNodeChangedEventArgs.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlNodeChangedEventHandler.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlNodeList.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlProcessingInstruction.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlSignificantWhitespace.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlText.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlUnspecifiedAttribute.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/Dom/XmlWhitespace.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/EmptyEnumerator.cs",
-        "src/src/System.Xml.XmlDocument/src/System/Xml/XmlTextEncoder.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "System.Xml.XPath/4.0.1": {
-      "sha512": "Rfe2kbLj9IbOm7DV+p3qrw6RWhCSZ5SSRZpr9tIBhCACak9X6NHShY0o7AlAxIUjaASgJNLV3B8CANI4OJIz6g==",
+      "sha512": "POLT2vNjMm6IbaVrdNaBmelRSGQBINLkFkA2xiJHt7Ams90ujEjV/HsK4u1aiDKj5oVhpRK8JtPg6KL+YExoTA==",
       "type": "package",
       "path": "System.Xml.XPath/4.0.1",
       "files": [
@@ -12539,119 +11386,11 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/NotImplemented.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/Common/src/System/Xml/Base64Decoder.cs",
-        "src/src/Common/src/System/Xml/Base64Encoder.cs",
-        "src/src/Common/src/System/Xml/BinHexDecoder.cs",
-        "src/src/Common/src/System/Xml/Bits.cs",
-        "src/src/Common/src/System/Xml/ExceptionType.cs",
-        "src/src/Common/src/System/Xml/IncrementalReadDecoders.cs",
-        "src/src/Common/src/System/Xml/ReadContentAsBinaryHelper.cs",
-        "src/src/Common/src/System/Xml/Schema/XmlUntypedConverter.cs",
-        "src/src/Common/src/System/Xml/Schema/XsdDateTime.cs",
-        "src/src/Common/src/System/Xml/ValidateNames.cs",
-        "src/src/Common/src/System/Xml/XPathNavigatorEx.cs",
-        "src/src/Common/src/System/Xml/XmlCharType.cs",
-        "src/src/Common/src/System/Xml/XmlConst.cs",
-        "src/src/Common/src/System/Xml/XmlConvertEx.cs",
-        "src/src/Common/src/System/Xml/XmlRawWriter.cs",
-        "src/src/Common/src/System/Xml/XmlRawWriterBase64Encoder.cs",
-        "src/src/Common/src/System/Xml/XmlReaderExtensions.cs",
-        "src/src/Common/src/System/Xml/XmlStandalone.cs",
-        "src/src/Common/src/System/Xml/XmlWriterExtensions.cs",
-        "src/src/System.Xml.XPath/ref/System.Xml.XPath.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/Cache/XPathDocumentBuilder.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/Cache/XPathDocumentIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/Cache/XPathDocumentNavigator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/Cache/XPathNode.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/Cache/XPathNodeHelper.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/Cache/XPathNodeInfoAtom.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/IXPathNavigable.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/AbsoluteQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/AstNode.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/AttributeQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/Axis.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/BaseAxisQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/BooleanExpr.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/BooleanFunctions.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/CacheAxisQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/CacheChildrenQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/CacheOutputQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/ChildrenQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/ClonableStack.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/CompiledXpathExpr.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/ContextQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/DescendantBaseQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/DescendantOverDescendantQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/DescendantQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/DocumentOrderQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/EmptyQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/ExtensionQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/Filter.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/FilterQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/FollSiblingQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/FollowingQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/ForwardPositionQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/Function.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/FunctionQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/Group.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/GroupQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/IDQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/IteratorFilter.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/LogicalExpr.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/MergeFilterQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/NamespaceQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/NodeFunctions.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/NumberFunctions.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/NumericExpr.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/Operand.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/OperandQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/Operator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/ParentQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/PreSiblingQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/PrecedingQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/Query.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/QueryBuilder.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/ResetableIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/ReversePositionQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/Root.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/SortQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/StringFunctions.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/UnionExpr.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/ValueQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/Variable.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/VariableQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathAncestorIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathAncestorQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathArrayIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathAxisIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathChildIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathDescendantIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathEmptyIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathParser.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathScanner.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathSelectionIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathSelfQuery.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/Internal/XPathSingletonIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathDocument.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathException.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathExpr.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathItem.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathNamespaceScope.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathNavigator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathNavigatorKeyComparer.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathNavigatorReader.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathNodeIterator.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XPath/XPathNodeType.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/XmlNodeOrder.cs",
-        "src/src/System.Xml.XPath/src/System/Xml/Xsl/XsltContext.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     },
     "System.Xml.XPath.XDocument/4.0.1": {
-      "sha512": "/TfqEhSHglip1cs3BIu8JMzjANV0bbnkXFm9yO5gYsFRqi5wsCzy9eX+9bvD+A5b7nakOqcWNryqleI8KybYvQ==",
+      "sha512": "jfIxcFCvAnkzyvIzoTnKWonqloy6wtmGRcqYWptFVEt+Q/lFu1tdZBSo30HuTKCj2oOlZqavOhOtDiJrTIdzhg==",
       "type": "package",
       "path": "System.Xml.XPath.XDocument/4.0.1",
       "files": [
@@ -12684,15 +11423,7 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "src/Tools/AssemblyInfoPartial.cs",
-        "src/src/Common/src/System/SR.cs",
-        "src/src/System.Xml.XPath.XDocument/ref/System.Xml.XPath.XDocument.Manual.cs",
-        "src/src/System.Xml.XPath.XDocument/ref/System.Xml.XPath.XDocument.cs",
-        "src/src/System.Xml.XPath.XDocument/src/System/Xml/XPath/XAttributeExtensions.cs",
-        "src/src/System.Xml.XPath.XDocument/src/System/Xml/XPath/XDocumentExtensions.cs",
-        "src/src/System.Xml.XPath.XDocument/src/System/Xml/XPath/XNodeNavigator.cs",
-        "src/src/System.Xml.XPath.XDocument/src/System/Xml/XPath/XObjectExtensions.cs"
+        "ref/xamarinwatchos10/_._"
       ]
     }
   },

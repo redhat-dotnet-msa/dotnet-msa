@@ -6,4 +6,4 @@ oc new-app dotnethello-first -l app=dotnethello-first
 
 oc set probe dc/dotnethello-first --readiness --get-url=http://:5000/
 
-oc expose service dotnethello-first
+oc expose service dotnethello-first --hostname=dotnethello-first-mydotnet.rhel-cdk.10.1.2.2.nip.io
