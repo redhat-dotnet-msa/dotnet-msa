@@ -1,2 +1,2 @@
-dotnet publish -c Release -r rhel.7.2-x64
+dotnet publish -c Release -r rhel.7.3-x64
 
