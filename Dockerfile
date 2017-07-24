@@ -2,7 +2,7 @@ FROM registry.access.redhat.com/rhel7
 
 RUN yum install -y libunwind libicu && yum clean all
 
-ADD bin/Release/netcoreapp2.0/rhel.7.3-x64/publish/. /opt/app-root/src/
+ADD bin/Release/netcoreapp1.0/rhel.7.3-x64/publish/. /opt/app-root/src/
 
 WORKDIR /opt/app-root/src/
 

@@ -11,7 +11,7 @@
     "Microsoft.AspNetCore.Server.Kestrel": "1.1.0"
   },
   "runtimes": {
-    "rhel.7.2-x64": {}
+    "rhel.7.3-x64": {}
   },
   "frameworks": {
     "netcoreapp1.0": {
