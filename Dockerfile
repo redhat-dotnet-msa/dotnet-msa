@@ -1,11 +1,5 @@
-FROM registry.access.redhat.com/rhel7
-
-RUN yum install -y libunwind libicu && yum clean all
-
-ADD bin/Release/netcoreapp1.0/rhel.7.3-x64/publish/. /opt/app-root/src/
-
-WORKDIR /opt/app-root/src/
-
-EXPOSE 5000 
-
-CMD ["/bin/bash", "-c", "/opt/app-root/src/dotnet-msa"]
+FROM registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7
+ADD bin/Release/netcoreapp2.0/rhel.7-x64/publish/. /app/
+WORKDIR /app/
+EXPOSE 5000
+CMD ["scl", "enable", "rh-dotnet20", "--", "dotnet",  "dotnet-msa.dll"]

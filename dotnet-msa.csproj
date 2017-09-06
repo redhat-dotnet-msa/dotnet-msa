@@ -7,12 +7,15 @@
     <OutputType>Exe</OutputType>
     <PackageId>dotnet-msa</PackageId>
     <RuntimeIdentifiers>rhel.7.3-x64</RuntimeIdentifiers>
-    <RuntimeFrameworkVersion>2.0.0-*</RuntimeFrameworkVersion>
-    <PackageTargetFallback>$(PackageTargetFallback);portable-net45+wp80+win8+wpa81+dnxcore50</PackageTargetFallback>
+    <RuntimeFrameworkVersion>2.0.0</RuntimeFrameworkVersion>
+    <AssetTargetFallback>$(PackageTargetFallback);portable-net45+wp80+win8+wpa81+dnxcore50</AssetTargetFallback>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel" Version="1.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="standalone.sh" Condition="'$(RuntimeIdentifier)' == 'rhel.7-x64' and '$(SelfContained)' == 'false'" CopyToPublishDirectory="PreserveNewest" />
   </ItemGroup>
 
 </Project>

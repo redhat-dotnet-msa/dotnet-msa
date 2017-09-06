@@ -16,8 +16,8 @@ namespace HelloWeb
 
             app.Run(context =>
             {
-                //return context.Response.WriteAsync("The HOST running this app (VERSION 1.0) is named: " + hostname);
-                return context.Response.WriteAsync("The HOST running this app (VERSION 2.0) is named: " + hostname);
+                return context.Response.WriteAsync("The HOST running this app is named: " + hostname);
+                //return context.Response.WriteAsync("The HOST running this app (VERSION 2.0) is named: " + hostname);
                 //return context.Response.WriteAsync("The HOST running this app (VERSION 3.0) is named: " + hostname);
             });
         }

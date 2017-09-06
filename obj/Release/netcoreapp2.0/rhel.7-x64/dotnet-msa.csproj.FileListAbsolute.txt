@@ -1,0 +1,10 @@
+/shared/dotnet-msa/bin/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.deps.json
+/shared/dotnet-msa/bin/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.runtimeconfig.json
+/shared/dotnet-msa/bin/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.runtimeconfig.dev.json
+/shared/dotnet-msa/bin/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.dll
+/shared/dotnet-msa/bin/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.pdb
+/shared/dotnet-msa/obj/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.csproj.CoreCompileInputs.cache
+/shared/dotnet-msa/obj/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.AssemblyInfoInputs.cache
+/shared/dotnet-msa/obj/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.AssemblyInfo.cs
+/shared/dotnet-msa/obj/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.dll
+/shared/dotnet-msa/obj/Release/netcoreapp2.0/rhel.7-x64/dotnet-msa.pdb
