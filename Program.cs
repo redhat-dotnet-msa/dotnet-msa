@@ -11,7 +11,7 @@ namespace HelloWeb
             var host = new WebHostBuilder()
                         .UseKestrel()
                         .UseContentRoot(Directory.GetCurrentDirectory())
-                        .UseStartup<Startup>().UseUrls("http://*:5000")
+                        .UseStartup<Startup>().UseUrls("http://*:8080")
                         .Build();
 
             host.Run();
